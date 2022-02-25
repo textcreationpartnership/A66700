@@ -1,0 +1,1237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Planctus unigeniti et spes resuscitandi, or, The bitter sorrows for a first born sweetened with the hopes of a better resurrection with consolations, moral and divine, against the death of friends, suited to the present occasion : delivered in a funeral sermon at Felsted in Essex, May 23, 1664, at the solemn interment of ... Charles Lord Rich, the only child of ... the Earle of Warwick / by A. Walker.</title>
+            <author>Walker, Anthony, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66700</idno>
+            <idno type="STC">Wing W307</idno>
+            <idno type="STC">ESTC R24590</idno>
+            <idno type="EEBO-CITATION">08251523</idno>
+            <idno type="OCLC">ocm 08251523</idno>
+            <idno type="VID">41198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1243:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Planctus unigeniti et spes resuscitandi, or, The bitter sorrows for a first born sweetened with the hopes of a better resurrection with consolations, moral and divine, against the death of friends, suited to the present occasion : delivered in a funeral sermon at Felsted in Essex, May 23, 1664, at the solemn interment of ... Charles Lord Rich, the only child of ... the Earle of Warwick / by A. Walker.</title>
+                  <author>Walker, Anthony, d. 1692.</author>
+               </titleStmt>
+               <extent>[6], 59 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Mabb for Samuel Ferris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Evel yaḥid.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke VII, 12-13 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41198:1"/>
+            <pb facs="tcp:41198:1"/>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Planctus Unigeniti: ET <hi>SPES RESUSCITANDI.</hi> OR, The bitter ſorrows for a Firſt-born, ſweet<g ref="char:EOLhyphen"/>ned with the hopes, of a Better RESURRECTION. WITH Conſolations, MORAL, and DIVINE, againſt the Death of Friends, ſuited to the preſent Occaſion. DELIVERED, In a FUNERAL SERMON, at <hi>FELSTED</hi> in <hi>ESSEX,</hi> MAY, 23. 1664. At the Solemn Interment of the Right Honourable, <hi>CHARLES</hi> Lord <hi>RICH,</hi> the <hi>Only Child,</hi> of the Right Honourable the Earle of WARWICK. By <hi>A. WALKER,</hi> D. D. Rector of <hi>Fyfield,</hi> in the ſame County, and one of His MAJESTIES CHAPLAINS.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Jer. 6.26.</hi>
+                  </bibl> Fac tibi Planctum unigeniti, Luctum amarum.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>St. Luke <hi>8.52.</hi>
+                  </bibl> 
+                  <hi>Weep not, She is not dead, but ſleepeth.</hi>
+               </p>
+               <p>Contriſtamur nos, in noſtrorum mortibus, neceſſitate amittendi, ſed cum Spe Recipiendi; Inde triſtamur hinc conſolamur, inde infirmitas afficit, hinc fides reficit, inde dolet humana conditio, hinc ſanat Di<g ref="char:EOLhyphen"/>vina promiſſio; <bibl>
+                     <hi>Sanctus Auguſtinus.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Mabb,</hi> for <hi>Samuel Ferris,</hi> at his Shop, in <hi>Cannon Street,</hi> over againſt <hi>London Stone,</hi> 1664.</p>
+            <pb facs="tcp:41198:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41198:3"/>
+            <pb facs="tcp:41198:3"/>
+            <head>To the Right Honourable, <hi>CHARLES</hi> Earle of <hi>WARWICK,</hi> Baron of <hi>Leez;</hi> And his Eminently Reli<g ref="char:EOLhyphen"/>gious Conſort, <hi>MARY,</hi> Counteſs of <hi>WARWICK;</hi> And the moſt Virtuous, and Excellent Lady, the Lady <hi>ANN RICH,</hi> Dowager.</head>
+            <opener>
+               <salute>Right Honourable;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough I find my preſent <hi>Attempt,</hi> not unlike the great <hi>Inſtance</hi> of <hi>Difficulties</hi> in <hi>Phyloſophy,</hi> to divide an <hi>Attome,</hi> and make <hi>two</hi> of the <hi>leaſt,</hi> and <hi>laſt, Unite</hi> in Nature; To <hi>diſtribute</hi> a<g ref="char:EOLhyphen"/>mongſt You, a <hi>Trifle,</hi> ſo Infinitely <hi>leſs,</hi> then the whole ſhould be, for every of Your <hi>Honours:</hi> Yet am I pleaſed the <hi>better</hi> with it, by how much the more it <hi>Correſponds,</hi> with this dark <hi>Providence;</hi> which is a <hi>compen<g ref="char:EOLhyphen"/>dious heap</hi> of <hi>Intricacies:</hi> and ſeems deſign'd, as an <hi>Experi<g ref="char:EOLhyphen"/>ment,</hi> what <hi>Hard-ſhips, Great,</hi> and <hi>Noble</hi> minds, ſup<g ref="char:EOLhyphen"/>ported with <hi>Virtue,</hi> and <hi>Religion,</hi> can <hi>conflict</hi> with, and <hi>Con<g ref="char:EOLhyphen"/>quer.</hi>
+            </p>
+            <p>To <hi>Extricate</hi> my ſelf out of this <hi>ſtreight,</hi> I am <hi>Conſtrained,</hi>
+               <pb facs="tcp:41198:4"/> to <hi>begg</hi> Your <hi>Honours,</hi> (By the prevailing <hi>Argument</hi> of His <hi>Dear Urne</hi>) to accept this <hi>haſty</hi> Monument, (which My <hi>Zeal</hi> to His <hi>Memory,</hi> firſt <hi>Offer'd</hi> at, by <hi>Your</hi> Commands, and by the ſame <hi>Influence,</hi> hath now made <hi>Publick</hi>) to be to You, (in that Reſpect,) as His <hi>Sweet Lordſhip</hi> was; Who was ſo <hi>Singly,</hi> and <hi>Intirely, Every</hi> of Your <hi>Honours,</hi> as if You had had no <hi>Joynt,</hi> or <hi>Common Intereſts</hi> in Him.</p>
+            <p>And may I, my Lord, be <hi>blameleſſe,</hi> in aſſuming the <hi>Confi<g ref="char:EOLhyphen"/>dence,</hi> to ſpeak in the <hi>Great Apoſtles Language; Now I re<g ref="char:EOLhyphen"/>joyce, not that You are made ſorry, but that You ſorrow af<g ref="char:EOLhyphen"/>ter a Godly manner;</hi> and that this <hi>deep Channel,</hi> now made in Your <hi>Soul,</hi> is ſo <hi>happily filled,</hi> with the <hi>Waters</hi> of the <hi>San<g ref="char:EOLhyphen"/>ctuary.</hi>
+            </p>
+            <p>And if I be <hi>Rude</hi> in <hi>Speech,</hi> I am not ſo in <hi>Deſign;</hi> though I <hi>whiſper</hi> ſo loud in Your <hi>Lordſhips</hi> Eares, that the <hi>World</hi> over<g ref="char:EOLhyphen"/>hear me; that nothing can more <hi>rejoyce</hi> Your <hi>Soul-Friends,</hi> and <hi>Servants,</hi> then to behold Your <hi>Chriſtian Submiſſion,</hi> to ſo <hi>ſmart</hi> a <hi>ſtroak,</hi> without other <hi>Indenting</hi> with the <hi>Almighty;</hi> Then that this <hi>Heart-breaking blow,</hi> may End in a <hi>broken heart;</hi> and in Your own <hi>Significant,</hi> though <hi>ſhort</hi> Expreſſion, that if this <hi>DOE,</hi> it will be the <hi>Happieſt Loſs,</hi> that ever Man had.</p>
+            <p>All which, (without <hi>preſumption;</hi>) I may <hi>Vouch,</hi> the <hi>Lord</hi> takes not amiſs, to have <hi>impos'd</hi> upon Him; the very <hi>Errand</hi> of His <hi>Judgements</hi> being, to bring His <hi>Children</hi> nearer to <hi>Him<g ref="char:EOLhyphen"/>ſelf,</hi> and ſuch a <hi>Frame.</hi>
+            </p>
+            <p>My Lord, <hi>ſad</hi> Providences do then prove <hi>ſad</hi> indeed; when we are forc't to <hi>taſt</hi> the <hi>bitter Rind,</hi> and <hi>Huske;</hi> or <hi>break</hi> our <hi>teeth</hi> upon the <hi>harder Shell;</hi> but <hi>feed</hi> not upon the <hi>ſweeter Kernel: Partake</hi> not the <hi>Bleſſing,</hi> God intends us by them. But then are they <hi>ſweet,</hi> and <hi>ſolid mercies,</hi> when God doth <hi>teach</hi> us, with,
+<pb facs="tcp:41198:4"/> and by his <hi>chaſtning:</hi> that this may be <hi>ſuch,</hi> I know no <hi>ſurer</hi> means, then that Your <hi>Lordſhip, Humbly</hi> Remember the <hi>Vowes</hi> of God which are upon You, which You made while the <hi>Wound</hi> was <hi>freſh;</hi> and that You <hi>Awefully</hi> regard, the Reſolutions of Your own <hi>Heart,</hi> and <hi>Mouth:</hi> And My <hi>Confidence</hi> You will do ſo, <hi>In<g ref="char:EOLhyphen"/>courages</hi> Me to this <hi>Boldneſs,</hi> which Your <hi>Lordſhips Good<g ref="char:EOLhyphen"/>neſs</hi> will not call <hi>Rudeneſs;</hi> but <hi>Accept,</hi> as a <hi>Teſtimony</hi> of My <hi>Duty,</hi> and <hi>Faithfulneſs.</hi>
+            </p>
+            <p>And You <hi>Great Madam,</hi> whoſe <hi>Modeſt</hi> and <hi>Retired Good<g ref="char:EOLhyphen"/>neſſe,</hi> cannot <hi>Abſcond</hi> it Self, but all the <hi>Engliſh-World, Sees,</hi> and <hi>Reveers</hi> it.</p>
+            <p>Go on, to <hi>Rayſe</hi> the <hi>Eternal</hi> Glories of the <hi>Son</hi> of <hi>God,</hi> up<g ref="char:EOLhyphen"/>on the <hi>Temporary Ruines,</hi> of a <hi>Deareſt Son;</hi> And make the <hi>Incredulous,</hi> to <hi>See,</hi> and <hi>Know,</hi> what <hi>Wonders, Solid,</hi> and <hi>Sin<g ref="char:EOLhyphen"/>cere, Chriſtianity</hi> can <hi>Work.</hi>
+            </p>
+            <p>What the <hi>Wiſe Moraliſt</hi> Obſerv'd ſo long agoe; that, <hi>A good Man, contending with bad Fortune, is a ſight worth Gods own looking on;</hi> I never underſtood ſo fully, as ſince I had the <hi>Honour</hi> to behold, with what <hi>Maſculine, Compoſed, Grave,</hi> and which is more then all, what <hi>Chriſtian Fortitude,</hi> Your <hi>Ladyſhip</hi> boar up, above theſe <hi>Swelling, Boyſtrous,</hi> Waves.</p>
+            <p>Thoſe who have any <hi>meaſures</hi> of a <hi>Mothers heart,</hi> may <hi>gueſs</hi> at Yours; But <hi>We</hi> that have the <hi>Honour,</hi> and <hi>Happineſs,</hi> to be Acquainted, with the <hi>Sweetneſs</hi> of Your <hi>Temper,</hi> and the <hi>Fer<g ref="char:EOLhyphen"/>vours</hi> of Your Tenderneſs, in <hi>Others Sorrows;</hi> how Inexpreſſibly You were concern'd, when firſt Your <hi>Noble Son</hi> fell <hi>Sick;</hi> How You Attended him, in <hi>all</hi> his <hi>Illneſs,</hi> and <hi>warm'd</hi> his very <hi>Linnens</hi> on Your <hi>Heart!</hi> What <hi>Agonies</hi> of <hi>Soul</hi> You Suffered for Him! and how You <hi>Wept,</hi> and <hi>Pray'd,</hi> and <hi>Watch't,</hi> and could not <hi>bear,</hi> the <hi>ſuppoſition</hi> of His <hi>loſs;</hi> are put to the <hi>Wonder</hi> of
+<pb facs="tcp:41198:5"/> 
+               <hi>Davids</hi> Servants, when the <hi>Child</hi> was <hi>dead.</hi>
+            </p>
+            <p>
+               <hi>What is this thing that thou haſt done?</hi> — And <hi>plainly</hi> ſee, it was the <hi>Strength</hi> of <hi>Davids</hi> God, which <hi>helpt</hi> You, as well as his <hi>Wiſdome,</hi> that <hi>inſtructed</hi> You, to <hi>bear</hi> his <hi>hand.</hi>
+            </p>
+            <p>My Only <hi>Sollicitude,</hi> for Your <hi>Ladyſhip,</hi> is, leaſt Your <hi>Sor<g ref="char:EOLhyphen"/>row worſted</hi> in the open Field, and plainly <hi>vanquiſhed,</hi> by <hi>Grace</hi> and <hi>Reaſon;</hi> ſhould Lye in Ambuſh, and Surpriſe You af<g ref="char:EOLhyphen"/>terward, with <hi>greater</hi> danger: To <hi>prevent</hi> it, <hi>watch</hi> it: <hi>Still keep</hi> Your Eye on <hi>Heaven,</hi> and that will <hi>keep</hi> You <hi>ſafe;</hi> 'Tis not <hi>eaſie,</hi> to <hi>benight</hi> a Chriſtians <hi>heart,</hi> with any very <hi>dark cloud,</hi> while there is <hi>brightneſs,</hi> and <hi>ſerenity,</hi> in the <hi>face</hi> of Chriſt; But if it <hi>ſwell,</hi> and <hi>flow</hi> to an <hi>exceſs,</hi> and will not be <hi>ſtanched;</hi> then <hi>breath</hi> a <hi>veine,</hi> and give it ſome <hi>diverſion,</hi> take an <hi>advan<g ref="char:EOLhyphen"/>tage</hi> of it, and turn it into <hi>Godly</hi> ſorrow, and all ſhall be well.</p>
+            <p>And <hi>You Sweet Madam;</hi> whoſe <hi>loſs</hi> of ſo <hi>Dear,</hi> and <hi>Kind</hi> a <hi>Lord,</hi> had been <hi>Invaluable,</hi> had it been never ſo <hi>late</hi> (who was ſo <hi>good</hi> in all <hi>Relations,</hi> and whoſe <hi>Indearing Excellencies,</hi> in that <hi>He</hi> bore to <hi>You,</hi> were <hi>Eminent,</hi> as <hi>that Relation</hi> is, above all <hi>others:</hi>) Yet is it <hi>aggravated</hi> now, beyond expreſſion, by its <hi>ear<g ref="char:EOLhyphen"/>ly,</hi> and <hi>unſeaſonable,</hi> ſurpriſing of You, in ſo <hi>tender years,</hi> not <hi>yet</hi> acquainted with, nor <hi>train'd</hi> up in the <hi>School</hi> of <hi>ſorrow;</hi> Will, I hope, therefore accept the <hi>Cordialls</hi> I <hi>bring,</hi> becauſe You ſo much <hi>need</hi> them.</p>
+            <p>It were an <hi>Unpardonable Rudeneſs,</hi> to <hi>Requeſt,</hi> that he may ever <hi>live,</hi> in Your Ladiſhips <hi>beſt thoughts,</hi> and have Your <hi>Noble breaſt,</hi> His <hi>Deareſt Monument;</hi> For how can <hi>He</hi> ever be forgot<g ref="char:EOLhyphen"/>ten by Her; who was not his <hi>Bargain;</hi> but <hi>his Choyce?</hi> Not his <hi>content</hi> and <hi>ſatisfaction</hi> only; but his <hi>Souls</hi> moſt <hi>rayſed,</hi> and laſt<g ref="char:EOLhyphen"/>ing, <hi>Raviſhments;</hi> from whom, He was never well, whoſe <hi>Ab<g ref="char:EOLhyphen"/>ſence</hi> was his <hi>conſtant ſickneſs,</hi> and the <hi>parting</hi> with whom, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:41198:5"/>
+            <p>No <hi>Madam,</hi> I do not <hi>beg</hi> You to <hi>Remember</hi> Him, You will do that <hi>unaskt;</hi> But that You would <hi>Remember</hi> Him to <hi>Spiri<g ref="char:EOLhyphen"/>tual Advantages.</hi>
+            </p>
+            <p>
+               <hi>Wean</hi> Your <hi>Affections,</hi> and <hi>forget</hi> Him, in all thoſe <hi>regards,</hi> in which, henceforth, You ſhall know Him <hi>no more;</hi> and <hi>Re<g ref="char:EOLhyphen"/>member</hi> Him in thoſe may not <hi>perplex,</hi> or <hi>hurt</hi> You, but <hi>help,</hi> and do You <hi>good.</hi>
+            </p>
+            <p>When <hi>Husbands</hi> dye in <hi>debt,</hi> their <hi>VVidows</hi> ſhould <hi>diſcharge</hi> and <hi>pay</hi> it. He hath not <hi>left</hi> You under other <hi>Incumbrances; Only</hi> He made Himſelf <hi>Gods debter,</hi> on his <hi>Death-bed</hi> (a Note of which Debts, Your <hi>Ladyſhip</hi> may find, in the following <hi>Sermon</hi>) And if You will <hi>Adminiſter,</hi> and <hi>take</hi> theſe <hi>Debts</hi> upon You, and <hi>diſcharge</hi> them; were I <hi>worthy</hi> to be Your <hi>Counter-Security,</hi> I would be <hi>bound,</hi> in all I <hi>have,</hi> or <hi>am,</hi> You would be Eternally the <hi>Richer for it;</hi> and <hi>bleſs,</hi> and <hi>hugg</hi> his Memory, for this <hi>choyce Legacy, more</hi> then for all, His, <hi>more</hi> then <hi>Noble, Preſents.</hi>
+            </p>
+            <p>And <hi>Madam,</hi> to <hi>help</hi> You pay theſe <hi>Debts,</hi> He hath left Your <hi>Ladyſhip,</hi> (beſide Your <hi>Honourable Dowre</hi>) ſuch a <hi>Joynture,</hi> as you could have had by <hi>none,</hi> but <hi>him;</hi> an <hi>Intereſt</hi> in that <hi>Real,</hi> and <hi>Solid Idea,</hi> of all that's Excellent, with <hi>Men,</hi> and <hi>Chriſtians;</hi> His, and <hi>by</hi> Him, your <hi>Ladyſhips Dear Mother;</hi> whom if you <hi>voluntarily looſe,</hi> as you have done <hi>him neceſſarily,</hi> you <hi>double</hi> your Miſery; and <hi>leave Charity</hi> it ſelf no <hi>excuſe</hi> to make for the <hi>Errour;</hi> But that your firſt loſs, hath not onely <hi>bereft</hi> you, of the <hi>Object</hi> of your <hi>Affections;</hi> but by its <hi>greatneſs,</hi> hath <hi>amaz'd</hi> your <hi>Judgement too.</hi>
+            </p>
+            <p>
+               <hi>Now</hi> let me <hi>joyn</hi> your <hi>Honours</hi> once again, to Beſeech your <hi>Joynt Patronage,</hi> of this imperfect Coppy, of ſo rare a <hi>piece.</hi> The <hi>better</hi> is the <hi>face,</hi> the <hi>hardlier</hi> doth the <hi>Painter</hi> hit it; <hi>One</hi> deforming <hi>mark,</hi> (which is ſeldome <hi>miſt</hi> by a rude Pencill)
+<pb facs="tcp:41198:6"/> makes all the <hi>reſt,</hi> ſeem <hi>like.</hi> I had no ſuch <hi>unhappy</hi> Advantage <hi>here;</hi> (though I <hi>complain</hi> not of that <hi>want.</hi>) And my <hi>haſt</hi> was <hi>ſuch,</hi> I had ſcarce time to <hi>prime</hi> my <hi>Canvas,</hi> and to let it <hi>dry;</hi> to bear the <hi>Impreſſions</hi> of a <hi>leaden Pencil:</hi> you are my <hi>witneſſes</hi> beyond <hi>exception;</hi> that your <hi>Conſternation</hi> was not off enough, in half the week, to give me my <hi>ſummons,</hi> for the following <hi>Monday.</hi> Such <hi>pieces</hi> do require the <hi>ſecond,</hi> and <hi>third ſitting;</hi> beſide the <hi>finiſhing ſtroaks,</hi> unleſs, <hi>Immature Sermons</hi> beſt ſuit with <hi>Immature Funeralls.</hi>
+            </p>
+            <p>Involuntary <hi>ſlipps,</hi> have their <hi>pardon</hi> of <hi>courſe,</hi> and the <hi>flat<g ref="char:EOLhyphen"/>ter touches</hi> of an <hi>haſty Pencil,</hi> all <hi>Ingenuity Indulges.</hi> The rest muſt <hi>indure</hi> its <hi>fate,</hi> in an <hi>unkind VVorld,</hi> which ſtill is ſuch, that I truly <hi>reckon</hi> it among your <hi>Comforts,</hi> that our <hi>Noble Lord</hi> is got well out on't. His now <hi>ſecure Herſe,</hi> muſt be my <hi>Shrine;</hi> and if your Honours accept it, (which is the Only Boon I Crave) you then <hi>Engage</hi> your <hi>Greatneſs,</hi> and your <hi>Goodneſs</hi> for my <hi>Protection:</hi> The <hi>Confidence</hi> of which, ſhall be the <hi>Security,</hi> and <hi>Eaſe,</hi> of</p>
+            <closer>
+               <salute>My very Good Lord, and Ladies,</salute> 
+               <signed>Your Honours Moſt Devoted Oratour, and Lowest Servant <hi>ANTHONY WALKER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:41198:6"/>
+            <head>Planctus Unigeniti.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>St.</hi> Luke, Chap. <hi>the</hi> 7th. <hi>Verſes 12, 13.</hi>
+                  </bibl>
+                  <p>—Behold there was a Dead Man Carried out, the onely Son of his Mother, and ſhe was a Widow, and much People of the City was with her.</p>
+                  <p>And when the Lord ſaw her, he had Compaſſion on her, and ſaid unto her, Weep not.</p>
+               </q>
+            </epigraph>
+            <div n="1" type="section">
+               <p>
+                  <seg rend="decorInit">I</seg>F it were but a <hi>Veniall Soliciſme,</hi> to Pre<g ref="char:EOLhyphen"/>face that Sermon with <hi>Sighs,</hi> and <hi>Tears;</hi> the Text of which forbids our <hi>Weeping,</hi> or leſſe <hi>Ominous</hi> to my De<g ref="char:EOLhyphen"/>ſigne of Comforting others, then ſome men phanſy ſtumbling at the Threſhold. My Preaching (with<g ref="char:EOLhyphen"/>out a Parable) ſhould be a <hi>Mourning to you;</hi>
+                  <note place="margin">
+                     <hi>Luke</hi> 7.32. We have mourned to you, and you have not wept.</note> And juſt aſtoniſhment ſhould ſtrike me dumb, which were the onely Eloquence on this occaſion. And by a meet <hi>Metatheſis</hi> my <hi>Lipps,</hi> and <hi>Eyes</hi> ſhould change their Offices, and theſe ſhould be your <hi>Oratours</hi> (for tears are very Vocal) and in the Prophets Phraſe, ſhould <hi>Drop my Words;</hi> (though ſoft and ſilent,<note place="margin">
+                     <hi>Ezech.</hi> 20.40.</note> yet warme and melting ones) and <hi>my Doctrine</hi> (not in a meta<g ref="char:EOLhyphen"/>phour)
+<pb n="2" facs="tcp:41198:7"/> 
+                  <hi>Should diſtill like the Rain,</hi>
+                  <note place="margin">
+                     <hi>Deut.</hi> 32.2.</note> 
+                  <hi>and deſcend upon You as the Dew.</hi>
+               </p>
+               <p>Neither ſhould I diſpair of drops enough, if not to <hi>ſoften,</hi> yet to <hi>ſmooth</hi> the ſtonieſt, and moſt un<g ref="char:EOLhyphen"/>natural breaſt; And to be pledg'd abundantly by thoſe, <hi>To whom the Lord hath given tears to drink in ſo great Plenty,</hi> Pſal. 80.5.</p>
+               <p>But this were, at once, to be both <hi>Rude</hi> and <hi>Cruell;</hi> and to <hi>
+                     <g ref="char:V">Ʋ</g>pbraid</hi> your <hi>Humanity,</hi> &amp; <hi>hazzard</hi> your <hi>ſafe<g ref="char:EOLhyphen"/>tie.</hi> The one as little needing Provocation to more ſorrows, as the other can bear it, after ſuch Floods of grief,<note place="margin">Oculi mei refor<g ref="char:EOLhyphen"/>bebant fontem ſuum uſque ad ſiccitatem. Aug. Confeſs. Lib. <hi>9.</hi> Cap. <hi>12.</hi>
+                  </note> whoſe eyes have drain'd their very Fountaines dry; as St. <hi>Auguſtin</hi> of himſelf upon his Mothers Death.</p>
+               <p>Yet if there be any eye ſo ſtrangely <hi>Anomolous</hi> to all the Laws of Nature and Civility, like <hi>Gideons Fleece</hi> (which yet was not without a Miracle) to continue dry, while all about is bedewed and drencht in tears. I'le try his <hi>Obſtinacy,</hi> and tempt his <hi>Stoi<g ref="char:EOLhyphen"/>ciſme</hi> with the Dark and Cloudy ſide of my Text; —<hi>Behold a dead man was carried out, the onely Son of his Mother, and ſhe was a Widow.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Saith St. <hi>Gregory Nyſcene,</hi>
+                  <note place="margin">Cap. <hi>25.</hi> De opi<g ref="char:EOLhyphen"/>ficio hominis.</note> 
+                  <hi>The meer Narra<g ref="char:EOLhyphen"/>tion is a great and manifeſt Lamentation;</hi> what ſay<g ref="char:EOLhyphen"/>eſt thou Friend, canſt thou hear this and not La<g ref="char:EOLhyphen"/>ment? Hath the Holy Spirit ſet ſo mournfull an Aſterick upon it, and canſt thou read it, unmoved, and unconcern'd? Where are thy Bowells? What <hi>Oſtrich</hi> haſt thou chang'd them with? Or from what <hi>Tygre</hi> were they derived to thee?</p>
+               <pb n="3" facs="tcp:41198:7"/>
+               <p>But if thy <hi>Ear</hi> will not affect thy <hi>Heart,</hi> thy <hi>Eye</hi> will doubtleſs: and that thine <hi>Eye</hi> again. See then before thee, in that ſolemne Herſe the <hi>Killing Reſur<g ref="char:EOLhyphen"/>rection</hi> of this <hi>Mournful Story,</hi> the darker <hi>Scene</hi> of this black <hi>Tragedy. Behold</hi> here <hi>a Dead Man, a young Man,</hi> in the bloſſome of his Man-hood, ſcarce in the Flower of his Youth, and not arrived at the <hi>Zenith</hi> of his <hi>Age</hi> or <hi>Honour,</hi> and the onely Son, Yea,<note place="margin">Sauciabatur a<g ref="char:EOLhyphen"/>nima mea, &amp; quaſi dilaniaba<g ref="char:EOLhyphen"/>tur vita quae una facta fuerat ex mea &amp; illius. Aug. Conf. Lib. <hi>9.</hi> Cap. <hi>12.</hi>
+                  </note> the onely one of his Right Honourable Parents, whoſe very Lives were bound up in his; being inexpreſſibly Dear to them in numberleſs regards. Snatcht from the cloſeſt Embraces of a Deareſt Con<g ref="char:EOLhyphen"/>ſort, and rent from the tendereſt boſome, yea, from the very Soul, of the beſt of Mothers, who Lov'd him, with a Love, <hi>Better,</hi> and <hi>Greater,</hi> then the Love of Women; If thou beholdeſt this with <hi>dry Eyes,</hi> ſurely thou art ſomewhat more then <hi>Man,</hi> an <hi>Angel;</hi> or rather ſomewhat, yea much leſſe, a <hi>Brute,</hi> a <hi>Stock.</hi>
+               </p>
+               <p>You eaſily ſee, there lye two mournful <hi>Texts</hi> be<g ref="char:EOLhyphen"/>fore us, the one in the Volume of <hi>Gods Book,</hi> the other in the <hi>Book</hi> of <hi>Providence;</hi> And the <hi>Second,</hi> alaſs, too full a Counterpaine of'th <hi>Firſt,</hi> and too too ſad an Exemplification of it. I ſhall touch them both in <hi>Order,</hi> and Order <hi>Commands</hi> me, and <hi>Invites</hi> you firſt, to the words I have Read; which are parcel of a very Remarkable Hiſtory of one of the moſt Signal Works of Chriſt, which ſtand upon Record in the Sacred Regiſters. The rayſing
+<pb n="4" facs="tcp:41198:8"/> of the Widows Son of <hi>Naim,</hi> and worthily are they uſhered in with that quickning incitement of our at<g ref="char:EOLhyphen"/>tention, <hi>Behold.</hi> For if ſingle wonders command our redieſt notice, then much more this, which is like <hi>Ezekiels</hi> Viſion,<note place="margin">
+                     <hi>Ezek.</hi> 1.16.</note> a <hi>Wheele</hi> in a <hi>Wheele,</hi> a <hi>Miracle</hi> in a <hi>Miracle,</hi> a miracle of <hi>Compaſſion</hi> in a <hi>Miracle</hi> of <hi>Power,</hi> a miracle of <hi>Greatneſſe</hi> in a miracle of <hi>Good<g ref="char:EOLhyphen"/>neſſe,</hi> Relieving <hi>Pitty,</hi> meeting diſpairing <hi>Neceſſity,</hi> and preventing even requeſts, as much as exceeding hopes of help.</p>
+               <p>
+                  <note place="margin">Omnia adeo mi<g ref="char:EOLhyphen"/>nute narrantur, ut fidem auge<g ref="char:EOLhyphen"/>rent Hiſtoriae Maldon.</note>Many Circumſtances offer, and almoſt force them<g ref="char:EOLhyphen"/>ſelves upon us, tending to the <hi>Verifying,</hi> and <hi>Magnify<g ref="char:EOLhyphen"/>ing</hi> of the work; to manifeſt both how <hi>True,</hi> and how <hi>Great</hi> it was; but I muſt reſiſt their importunity in my preſent haſt, and fixing this fourfold remarke upon the <hi>Whole,</hi> ſingle out the <hi>Branch</hi> I am ingaged to perſue.</p>
+               <p>Obſerve firſt the kind of Chriſts Miracles; <hi>Heal<g ref="char:EOLhyphen"/>ing, Inlivening,</hi> the ſweeteſt Emblems of that Grace and Goſpel which they were wrought for Confirma<g ref="char:EOLhyphen"/>tion of; <hi>Moſes,</hi> the Law, was a Miniſter of death, <hi>the Letter killeth,</hi> ſo did his Miracles, Blood and Storms,<note place="margin">
+                     <hi>Exod.</hi> 7, 19.9.22.10.21.12.29.</note> Fire, Darkneſſe, Deſolation, Death, were thoſe he wrought.</p>
+               <p>He made but one Dead thing Alive, which was a <hi>Rod</hi> before, but then became a <hi>Serpent; In cujus morſu mors,</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi> 7.9, 10.</note> grew from a <hi>Smart</hi> Inſtrument of <hi>Correction</hi> to a more <hi>Nocent</hi> one of <hi>Deſtruction</hi> as <hi>Rehoboams</hi> Scor<g ref="char:EOLhyphen"/>pions were more cruel then the Rods of <hi>Solomon,</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi> 7.9, 10.</note> 2 <hi>Kings</hi> 12.11.</p>
+               <p n="2">
+                  <pb n="5" facs="tcp:41198:8"/>2. This Miracle exemplifies the <hi>Strength</hi> and <hi>Greatneſs</hi> of his <hi>Grace,</hi> as well as the <hi>Sweetneſs</hi> and <hi>Goodneſs</hi> of it; A dead man is the lively Picture of a Sinner; Sin is the greateſt death,<note place="margin">Amplius eſt re<g ref="char:EOLhyphen"/>ſaſcitare ſemper victurum, quam ſuſcitare iterum moriturum. Aug. Ser. <hi>4.</hi> de<g ref="char:EOLhyphen"/>ver. Domi. Initio Tom. <hi>10.</hi>
+                  </note> it kills the Nobler part, the Soul, and a dead man carried out, is the Coppy of a Sinner, not newly ſuch, but a good while lying in it, ready to ſtink above ground in his noy ſome Luſts; Yet ſuch can Chriſt raiſe up, as here; Yea, them who are Entombed in the cuſtomes of Sin, and rott and ſtink with <hi>Lazarus;</hi>
+                  <note place="margin">Auguſtinus ubi ſupra.</note> 
+                  <hi>Liberat enim &amp; de mala Conſuetudine Dominus quatriduanos mortuos</hi>
+               </p>
+               <p n="3">3. This Miracle proclaims the ſuperlative pre<g ref="char:EOLhyphen"/>venting <hi>Goodneſs</hi> of him who is found of them who ſeek him not,<note place="margin">
+                     <hi>Iſa.</hi> 65.1.</note> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 10.20.</note> and made manifeſt to them who enquire not after him, <hi>Non Rogatus adeſt.</hi>
+                  <note place="margin">Mal.<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note>
+               </p>
+               <p>Thoſe whom Chriſt help't while he was on Earth, are ranck't into this threefold Order.</p>
+               <p n="1">1. Some upon their own importunate, and earneſt Prayers, as blind <hi>Bartimeus, Crying,</hi>
+                  <note place="margin">
+                     <hi>Mark</hi> 10.47.</note> 
+                  <hi>Jeſus thou Son of</hi> David <hi>have mercy on me;</hi> And the Leper,<note place="margin">
+                     <hi>Mark</hi> 1.40.</note> who beſeeching him, and kneeling down to him, ſaid; <hi>Lord if thou wilt thou canſt make me clean.</hi> Blind Sin<g ref="char:EOLhyphen"/>ners! let the firſt be your <hi>Letany,</hi> and the laſt your daily <hi>Collect</hi> your unclean ones.</p>
+               <p n="2">2. Some upon the Requeſts and Interceſſion of others, as him ſick of the Palſie,<note place="margin">
+                     <hi>Mark</hi> 2, 3.</note> brought by his Friends;<note place="margin">St. <hi>Luke</hi> 7.2. 8.41.</note> the <hi>Centurions</hi> Servant for whom his Maſter and the Jewes interceded, and <hi>Jarus</hi>'s Daughter
+<pb n="6" facs="tcp:41198:9"/> whom he raiſed at the humble Importunity of her deſtreſſed Father. Learn hence you that have <hi>Ser<g ref="char:EOLhyphen"/>vants, Friends, Children</hi> to go to Chriſt for them with Faith and Prayer for Spiritual Health and Life, and engage Good Chriſtians with you, as he did the Jewes, and be full of good works, that they may not want Arguments to plead before the Lord in your behalf, as they — <hi>Lord he loveth our Nation, and hath built us a Synagogue.</hi>
+                  <note place="margin">St. <hi>Luke</hi> 7.5.</note>
+               </p>
+               <p n="3">3. Some without other motions made to him then the <hi>ſilent Oratory</hi> of their own deep <hi>Miſery,</hi> which cryed prevailingly in the eares of his <hi>Mercy,</hi>
+                  <note place="margin">Ipſa pro miſeris miſeria, vociſe<g ref="char:EOLhyphen"/>ratur.</note> as this Woman whom he ſaw and Pittied, and Com<g ref="char:EOLhyphen"/>forted, and Helpt, and all unask't; and how much more will he relieve thoſe who Cry unto him Day and Night?<note place="margin">
+                     <hi>Luke</hi> 18.7, 8.</note> And whoſe Condition is as ſad as hers? I tell you, he will aſſuredly relieve them.</p>
+               <p>Laſtly, This Miracle declares the exact watch<g ref="char:EOLhyphen"/>fulneſſe of Divine Benignity, which comes ſo pat, ſo ſeaſonable, juſt when the Corps was carrying out. This never comes <hi>too ſoon,</hi> this never ſtayes <hi>too late,</hi> but is alwayes ready where and when tis ne<g ref="char:EOLhyphen"/>ceſſary, ſtayes till there's need, that help may be the ſweeter, but never ſtayes longer then tis fit and ſafe; Therefore you that wait for help, give not over look<g ref="char:EOLhyphen"/>ing, nor ſay Complainingly, <hi>Mine eyes faile while I wait for thy Salvation;</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 69.3.</note> But, <hi>though it tarry, wait for it,</hi>
+                  <note place="margin">
+                     <hi>Habb.</hi> 2, 3.</note> 
+                  <hi>for it will come, and will not tarry</hi> (longer then is meet) <hi>and it will ſpeak, and will not lye;</hi> and that in
+<pb n="7" facs="tcp:41198:9"/> ſo appoſite, ſo ſweet, ſo fit a manner, time and place, that it will make thee cry out with wonder; Behold what hath the Lord wrought; as the Holy Pen-man uſhers in this Narrative; Behold — <hi>Que particula Ecce, temporis unitatem &amp; loci propinquitatem ſignificat.</hi> He cannot expreſſe it without holy admiration, that Chriſt ſhould come ſo ſeaſonably, ſo pat, as we uſe to ſpeak; juſt then, in the very Nick and Article of time, <hi>When the dead man was carried out, who was the onely Son of his Mother, and ſhe a Widow, and much People of the City was with her, And when the Lord ſaw her, he had Compaſſion on her, and ſaid unto her, Weep not.</hi>
+               </p>
+               <p>Which words are Chequer-Work of <hi>Black</hi> and <hi>White,</hi> like <hi>Moſes</hi> Pillar, party per pale <hi>Darkneſs</hi> and <hi>Light,</hi> as <hi>Davids</hi> Song of <hi>Judgement</hi> and <hi>Mercy,</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi> 14.20.</note> and we may uſe St. <hi>Pauls</hi> Language whilſt we view them,<note place="margin">
+                     <hi>Pſal.</hi> 101.1.</note> behold the <hi>Severity</hi> and <hi>Goodneſs</hi> of God.<note place="margin">
+                     <hi>Rom.</hi> 11.22.</note> So that my Text is a Tragy-Comedy begins with a mourn<g ref="char:EOLhyphen"/>full <hi>Prologue,</hi> but ends with a joyfull <hi>Epilogue;</hi> a rayny, lowring day, breaking up into a bright and pleaſant Evening.</p>
+               <p>She <hi>comes forth weeping and bearing Precious Seed,</hi>
+                  <note place="margin">Corpora ſancto<g ref="char:EOLhyphen"/>rum Semen laetae reſurrectionis. Pſal. <hi>126.5, 6.</hi>
+                  </note> the ſeed of the Reſurrection, and ſhe hath an early, ſudden, unexpected Harveſt, and carries home a <hi>Sheaf in her Boſome,</hi> which ſhe reapt with raviſhments, and extaſies of joy.</p>
+               <p>The whole of the Text may genuinely be re<g ref="char:EOLhyphen"/>duced to theſe two heads.</p>
+               <list>
+                  <pb n="8" facs="tcp:41198:10"/>
+                  <item>1. <hi>Mans Miſery.</hi>
+                  </item>
+                  <item>2. <hi>Chriſts Mercy.</hi>
+                  </item>
+               </list>
+               <p>Humane Paſſion, Divine Compaſſion.</p>
+               <p>The <hi>Firſt,</hi> in Verſe the 12. which preſents us with a ſad and dolefull Object.</p>
+               <p>The <hi>Second, ver.</hi> the 13. which gives us an account what impreſſion that object made on Chriſt, who came ſo ſeaſonably to behold and help.</p>
+               <p>Or if you will; Obſerve,
+<list>
+                     <item>1. A <hi>Solemn</hi> and <hi>Mournful Funeral.</hi>
+                     </item>
+                     <item>2. <hi>A ſeaſonable and Comfortable Cordiall.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>In the Firſt, the <hi>Funerall,</hi> are preſented to us.</p>
+               <list>
+                  <item>1. The <hi>Herſe;</hi> a dead man carried out.</item>
+                  <item>2. The <hi>Mourners;</hi> his Mother the chief, and much People with her.</item>
+                  <item>3. The <hi>proceſs</hi> of the whole, they carry him forth.</item>
+               </list>
+               <p>In the ſecond, the <hi>Cordiall.</hi>
+               </p>
+               <list>
+                  <item>1. The <hi>Cordiall</hi> it ſelf, <hi>Weep not.</hi>
+                  </item>
+                  <item>2. The Holy <hi>Lymbeck,</hi> from whence tis diſtilled, the tender bowells of Jeſus Chriſt; <hi>He was moved with Compaſſion;</hi>—</item>
+                  <item>3. The fire that gives it operation; the ſeeing of this pittifull object; a <hi>Deſolate, Diſconſolate Mo<g ref="char:EOLhyphen"/>ther When he ſaw her; — Then he was moved with Compaſſi n,</hi> and when he was ſo moved, then he ſaid, <hi>Weep not.</hi>
+                  </item>
+               </list>
+               <p>I begin with the Firſt; the Funeral, and in that,
+<pb n="9" facs="tcp:41198:10"/> 1. The <hi>Herſe,</hi> 2. Then the <hi>Mourners,</hi> and this order, <hi>Cuſtome</hi> approves, <hi>Nature</hi> Compells, <hi>Ceremony</hi> ap<g ref="char:EOLhyphen"/>points, and <hi>Neceſſity</hi> conſtrains; the <hi>Herſe</hi> leads, the <hi>Mourners</hi> follow; Our Noble Lord is gone before, we muſt go after.</p>
+               <p n="1">1. The <hi>Herſe,</hi> And that as <hi>harſh</hi> and <hi>dark</hi> as if the <hi>Pall,</hi> were of the <hi>Courſeſt Hair-Cloath,</hi> and made more <hi>black</hi> and <hi>Heavy,</hi> with theſe <hi>ſix ſable Eſcutcheons,</hi> which are its <hi>load</hi> and burden, rather then its <hi>Orna<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <list>
+                  <item>1. A <hi>Man dead.</hi>
+                  </item>
+                  <item>2. He a <hi>Young</hi> Man.</item>
+                  <item>3. That young man, a <hi>Great</hi> man.</item>
+                  <item>4 That <hi>Great</hi> man, an <hi>Only Son.</hi>
+                  </item>
+                  <item>5. That only Son, as <hi>Childleſs</hi> at his death, as his deceaſe did leave his Mother.</item>
+                  <item>6. That Mother a <hi>Widow,</hi> like to continue <hi>Child<g ref="char:EOLhyphen"/>leſs, Heirleſs,</hi> concluded and ſhut up under diſpaire of having more to comfort, and relieve her Solitude.</item>
+               </list>
+               <p>Each circumſtance calls for an <hi>heavy accent,</hi> and needs a <hi>mournful circumflex,</hi> let's drop them with our tears in Order, that every Eſcutcheon may be <hi>Guttee,</hi> only ſuppoſe thoſe drops of <hi>Pearle</hi> and <hi>Argent,</hi> to <hi>charge</hi> the <hi>diſpairing Sable Field</hi> of Death, with <hi>brighter hopes</hi> of an approaching Reſurrection.<note place="margin">1 <hi>Tim.</hi> 2.7. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> preco Caduceator, predicator <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> pre<g ref="char:EOLhyphen"/>dicare publice laudare.</note> Excuſe this phraſe; a Preacher is properly an <hi>Herauld:</hi> but chiefly ſo, at ſuch a time. Each word, like a ſlip of <hi>Ci<g ref="char:EOLhyphen"/>prus,</hi> ſprouts up into a mournful <hi>Stem,</hi> the <hi>Blazon</hi> of each Eſcutcheon is a dolefull <hi>Sentence,</hi> in Order thus,</p>
+               <p n="1">
+                  <pb n="10" facs="tcp:41198:11"/>1. <hi>Man</hi> is <hi>Mortall.</hi>
+               </p>
+               <p n="2">2. Even <hi>Young</hi> men may <hi>dye,</hi> and often do.</p>
+               <p n="3">3. <hi>Great</hi> Men muſt <hi>fall</hi> as well as others.</p>
+               <p n="4">4. <hi>Onely-Children</hi> cannot <hi>eſcape.</hi>
+               </p>
+               <p n="5">5. <hi>Whole Families</hi> may <hi>fayle</hi> in Childleſs Heirs.</p>
+               <p n="6">6. <hi>Former Sorrows</hi> do not excuſe us from <hi>Succeed<g ref="char:EOLhyphen"/>ing Ones;</hi> She that was made a Widow by her Hus<g ref="char:EOLhyphen"/>bands death, may yet be rendred more deſolate by the loſs of Children. One comfort gone ſecures not the reſt.</p>
+               <p>By the glimmering light which theſe ſix dim and lowring <hi>Tapers</hi> caſt about the <hi>Herſe,</hi> you may di<g ref="char:EOLhyphen"/>ſtinctly read, the <hi>Impreſs</hi> of each <hi>Shield.</hi>
+               </p>
+               <p n="1">1. <hi>Man's Mortal.</hi> This truth's ſo obvious, we cannot ſuppoſe the <hi>Ecce</hi> prefixt to it. The wonder is greater that any man out-lives his Mothers travel, then that he dyes ſo ſoon.</p>
+               <p>The many witty <hi>Emblems</hi> of our frailty, devis'd and uſed by graveſt <hi>Sages, Ethnick</hi> and <hi>Chriſtian</hi> are abundantly excuſed from all ſuſpicion of <hi>Hyperbole</hi>'s, by what the holy ſpirit ſpeaks ſo frequently in the ſame Argument;<note place="margin">
+                     <hi>Iſa.</hi> 40.6, 7. <hi>Pſal.</hi> 103.15. <hi>Job.</hi> 13.25. 1 <hi>Pet.</hi> 1.24. <hi>Jam.</hi> 4.14. <hi>Job.</hi> 7.7. <hi>Pſal.</hi> 144.4. <hi>Iſa.</hi> 40.17.</note> comparing man to <hi>Graſs,</hi> to <hi>Flowers,</hi> to <hi>dryed Leaves,</hi> and <hi>Stubble,</hi> to <hi>Duſt,</hi> to <hi>Vapours,</hi> to <hi>Wind,</hi> to <hi>Vanity,</hi> to <hi>leſs then vanity and nothing.</hi>
+               </p>
+               <p>And no truth is written in Gods Book, with more Indelible, and larger Characters, then that <hi>It is ap<g ref="char:EOLhyphen"/>pointed unto all men once to dye; A time to be born, a time to dye;</hi> Mark how cloſe they ſtand together, nothing parts them.<note place="margin">
+                     <hi>Joſ.</hi> 23.14. 1 <hi>Kings</hi> 2.2.</note> 'Tis the <hi>way of all the Earth,</hi> an univer<g ref="char:EOLhyphen"/>ſall
+<pb n="11" facs="tcp:41198:11"/> Rule that doth admit of no Exception,<note place="margin">
+                     <hi>Gen.</hi> 5.5, 8, 11, 14, 17, 20,</note> the con<g ref="char:EOLhyphen"/>ſtant concluſion of all mens Hiſtory: — <hi>And he dyed.</hi> So that the challenge was very ſafe; <hi>What man is he that liveth, and ſhall not ſee death,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 89.48.</note> 
+                  <hi>and ſhall he deliver himſelf from the hand of the Grave?</hi> And the determination as warily made, <hi>No man can give to God a Ranſome for himſelf, or Brother,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 49.9.</note> 
+                  <hi>that he ſhould ſtill live for ever, and not ſee Corruption.</hi>
+               </p>
+               <p n="2">2. And 'tis as obvious to <hi>common notice,</hi> we need not Revelation to perſwade our <hi>Credence,</hi> they give aſſent, who never ſaw the <hi>Bible,</hi> and tis become a Pro<g ref="char:EOLhyphen"/>verb, <hi>nothing ſo ſure as death;</hi> where ſeeing is believing, there need no other <hi>Topicks,</hi> to make a demonſtration.</p>
+               <p n="3">3. And Natural <hi>Reaſon</hi> gives its perfect <hi>ſuffrage,</hi> that muſt decay, whoſe foundation is i'th duſt, as ours is, who are but the ſub-diviſions of <hi>Adams</hi> red Clod, <hi>crumbled</hi> into multiplied <hi>Atomes;</hi> the <hi>stream</hi> cannot aſcend beyond the Altitude of the <hi>Fountains</hi> Scitua<g ref="char:EOLhyphen"/>tion. From <hi>Corruptible</hi> Principles no Product can proceed, <hi>Incorruptible; Man that is born of a Woman, is of few dayes,</hi> it carries its own Evidence, becauſe he is ſo born.</p>
+               <p>A <hi>Tabernacle</hi> patcht together of ſappy <hi>sticks,</hi>
+                  <note place="margin">
+                     <hi>Job.</hi> 14.1.</note> and rotten <hi>straw,</hi> and mouldring <hi>dirt</hi> cannot ſtand long, eſpecially expoſed to Storms without, and Fire from within; and ſuch is mans body,<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. — Greg. Nyſſ. Orat. de Mortuis.</note> toſt and conſu<g ref="char:EOLhyphen"/>med with dayly ſtrife, of <hi>hot</hi> and <hi>cold, moyſt</hi> and <hi>dry,</hi>
+                  <pb n="12" facs="tcp:41198:12"/> and which ſoever Conquers, leads life it ſelf a Captive to its Victory,<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> — Greg. Nyſſ. ubi ſupra.</note> — And <hi>Duſt returns to duſt.</hi>
+               </p>
+               <p n="4">4. And there is a <hi>Moral</hi> cauſe ith' Soul, as <hi>mortall</hi> as any <hi>Natural</hi> one ith' Body,<note place="margin">
+                     <hi>Eze.</hi> 18.20. <hi>Gen.</hi> 2.17. <hi>Rom.</hi> 6.23.5.12.</note> the <hi>Soul that ſinneth it ſhall dye, In the day thou eateſt thou ſhalt dye the death, death is the wages of ſin,</hi> which ſhall be ſurely paid. <hi>By one man Sin entred into the World,</hi>
+                  <note place="margin">1 <hi>Kin.</hi> 8.46.</note> 
+                  <hi>and death by ſin.</hi> And in as much as no man <hi>liveth</hi> and <hi>ſinneth not,</hi> you may conclude that no man <hi>liveth,</hi>
+                  <note place="margin">Mors interficit omnes quos na<g ref="char:EOLhyphen"/>tura preſentem perducit ad vitam; ducit Reges, trahit Populos, gentes impellit, non divitiis redimi non flecti precibus, non lachrimis molliri, non viribus potuit illa unquam ſuperari, <hi>Chryſologus Serm.</hi> 118.</note> and <hi>dyeth</hi> not.</p>
+               <p>With what words then ſhall we bewaile, or up<g ref="char:EOLhyphen"/>braid rather, the Atheiſtical ſecurity, and ſtupid mad<g ref="char:EOLhyphen"/>neſs of thoſe men, who will not be perſwaded of this truth? or, which is ten times worſe, under con<g ref="char:EOLhyphen"/>victions and confeſſions of it, live <hi>here,</hi> as if, they ſhould live <hi>here</hi> for <hi>ever;</hi> and tempt us to believe they judge their <hi>Souls</hi> are <hi>Mortal,</hi> they take ſo little care to ſave them; and their <hi>Bodies Immortal,</hi> they heap up ſo long proviſions for them.</p>
+               <p n="2">2. Even <hi>young</hi> men may <hi>dye,</hi> and often do. Ours in the Text is expreſly called ſo, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the <hi>ver.</hi> next following, your common ſaying is, <hi>Old men muſt dye, and Young men may, Senibus mors in januis, Juvenibus in obſidiis,</hi> ſayth St. <hi>Bernard.</hi> Tis very remarkable how the Scripture Records the Death of <hi>Haran, And</hi> Haran <hi>dyed before his Father</hi> Tera,<note place="margin">
+                     <hi>Gen.</hi> 11.21.</note> 
+                  <hi>in the Land of his
+<pb n="13" facs="tcp:41198:12"/> Nativity.</hi> Moſt Children dye before their Parents, not one of an hundred that are born, lives to be old, and conſequently, far the greateſt part of men dye young. <hi>Death paſſeth upon them who have not ſinned, after the ſimilitude of</hi> Adams <hi>Tranſgreſſion;</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 5.</note> that is actually, and therefore dye whilſt young. <hi>Rachells Children are not,</hi> while ſhe remains to <hi>bewaile</hi> them, be<g ref="char:EOLhyphen"/>cauſe they <hi>are not.</hi> Death keeps no turns, obſerves no order, that they ſhould go firſt, who came ſo, but in this tis often, <hi>The last ſhall be first, and the first last.</hi> Not only man, but <hi>man in his best Eſtate is altogether vanity;</hi> Tis an <hi>Arabian</hi> Proverb,<note place="margin">
+                     <hi>Pſal.</hi> 39.5.</note> 
+                  <hi>the old Camell often carries the young Camells Skin to Market;</hi> And the Jewiſh Scholler told his Maſter, as an Argument, to urge him, to teach him betimes the <hi>Art</hi> of dying well; that there were <hi>little graves in</hi> Golgotha. When Jonahs <hi>gourd was freſh and green,</hi>
+                  <note place="margin">
+                     <hi>Jon.</hi> 4.</note> fulleſt of ſap and verdure, then the worm ſmites it, and tis gone. And no wonder, for their <hi>leſs confirmed conſtitution,</hi> is ſooner <hi>diſcompoſed,</hi> and out of <hi>temper;</hi> Their <hi>freſher</hi> blood is more ſuſceptive of <hi>Infection,</hi> their <hi>warmer</hi> and <hi>agile</hi> ſpirits more eaſily blown up into a Feaveriſh heat and flame, and in a word, are ſo much <hi>leſs ſafe</hi> from death, by how much they are the <hi>fairer marks</hi> for him to Levell at.</p>
+               <p>Awake then preſumptuous Youths! Sleep not ſo ſoundly in the <hi>Lap of Dalilah,</hi> without the thoughts and care of reſt in <hi>Abrahams boſome; Put not the evil day far from you,</hi> upon ſuch ſlight and ſlender grounds,
+<pb n="14" facs="tcp:41198:13"/> 
+                  <hi>Make no agreements with the Grave, nor covenants with death and Hell,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 28.18.</note> leaſt he forbid the banes, and diſanull it, in whoſe hands your breath is; but <hi>Re<g ref="char:EOLhyphen"/>member your Creatour in the dayes of your youth,</hi>
+                  <note place="margin">
+                     <hi>Eccl.</hi> 12.1.</note> and learn to live betimes, yea and dye too, (for you may dye betimes) and <hi>ſeek God early, while he may be found,</hi> knowing they are moſt welcome who come ſooneſt, and remembring the young Diſciple, was the beſt beloved Diſciple. Put not off, no not a day,<note place="margin">Neſcis quid ſe<g ref="char:EOLhyphen"/>rus vesper tra<g ref="char:EOLhyphen"/>bat <hi>Adag.</hi>
+                  </note> a work of ſuch concernment, becauſe thou knoweſt not what a day may bring forth, leaſt thou be put to worſe complaints then his, who bitterly bewail'd his ſtay, Too late O Lord did I begin to Love thee; <hi>Nimis ſero te amare caepi,</hi> and leaſt if thou think the <hi>Morn</hi> and <hi>Flower</hi> of thy age too good to give, <hi>God</hi> judge the <hi>dreggs</hi> and <hi>twigh-light</hi> of it too bad to be accepted, and take no pleaſure in thoſe dayes, <hi>Of which thy ſelf ſhalt ſay, I have no pleaſure in them,</hi> Eccl 12.1. <hi>O know in this thy day, the things that concern thy peace;</hi>
+                  <note place="margin">Vide <hi>Gr. Nyſs.</hi> Contra <hi>Bap.</hi> delat. Sed dices tu qui es Juvenis, nondum conſenui. Noli ergo decipi, non definitur mors certo tempore aetatis, neque timet eos qui ſunt in ipſo flore aetatis in ſolos autem ſenes obtinet dominium. Hujus enim accipe magiſtrum quotidianam experientiam. Vides enim quo mortui efferuntur feretrum quam in aequaliter &amp; ut contingit omnem effertae tatem hodie ſenem cras florentem &amp; elegantem adoleſcentem paulo poſt cui caeperat lanugo apparere, ruſſus virum robuſtum valentem viribus &amp; ruſſus vetulam ſimul &amp; virginem.</note> 
+                  <hi>Si non nunc, quando?</hi>
+               </p>
+               <p n="3">3. <hi>Great Men</hi> muſt <hi>fall</hi> as well as others, this in our Text was ſuch an one; his Mother is termed <hi>Prima<g ref="char:EOLhyphen"/>ria Civitatis Matrona,</hi> one of the Chief Ladies in the City where ſhe dwelt. We dye, as <hi>Men,</hi> as <hi>Sinners,</hi> and what makes them greateſt, makes them not <hi>more</hi> then <hi>men,</hi> nor <hi>leſs</hi> then <hi>ſinners.</hi> Therefore he who
+<pb n="15" facs="tcp:41198:13"/> calls them <hi>Gods,</hi> yet ſaith that <hi>they must dye like men;</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 82.6, 7.</note> The lofty <hi>Cedars</hi> of <hi>Lebanon,</hi> and goodlieſt <hi>Oakes</hi> in <hi>Baſhan,</hi> muſt down as ſure as the <hi>Sycamors</hi> in the Vally, or <hi>Willowes</hi> by the Water-Brookes.</p>
+               <p>
+                  <hi>Job</hi> told us long agoe,<note place="margin">
+                     <hi>Job</hi> 34.19, 20</note> that <hi>God accepteth not the Perſons of Princes, nor regardeth the Rich more then the Poor, for they are all the work of his hands; In a moment they ſhall dye, and the Mighty ſhall be taken away without hand.</hi>
+               </p>
+               <p>
+                  <hi>Man</hi> though <hi>in Honour abideth not;</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 49.12.</note> when God takes <hi>away the breath of Princes, even they returne unto their duſt, and their thoughts periſh.</hi> Though the <hi>Rich Mans Wealth be his Tower,</hi>
+                  <note place="margin">
+                     <hi>Pro.</hi> 10.15.</note> 
+                  <hi>and a ſtrong hold in his conceite,</hi> yet Death can ſcale his Walls, and ſtorm his Fort, or pick his Locks, and creep in at his Windows, or ſlide in at a Loop-hole; and Riches cannot bribe him, nor a Golden Shield bear off his darts. That Rich Fool in the Goſpel, who bleſt himſelf with Barnes-full, as if nothing would deſtroy but ſtar<g ref="char:EOLhyphen"/>ving, was confuted with a vengeance when the ſum<g ref="char:EOLhyphen"/>mons came, <hi>Stulte hac nocte, Thou Fool,</hi>
+                  <note place="margin">
+                     <hi>Luke</hi> 12.21<g ref="char:punc">▪</g>
+                  </note> 
+                  <hi>this night thy Soul ſhall be required of thee. Solomon</hi> and <hi>Craeſus, Alexander</hi> and <hi>Caeſar, Conſtantine</hi> and <hi>Charles,</hi> and all the <hi>Magni &amp; Maximi,</hi> are ſuch loud Inſtances of this, it were ſuperfluous to weary you with more.</p>
+               <p>
+                  <hi>Be wiſe now therefore O Ye Kings,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 2.20.</note> 
+                  <hi>be Inſtructed Ye Judges of the Earth, Serve the Lord with Fear, Kiſs the Sun leaſt he be angry,</hi> and when you dye, (as dye you muſt,) you dye again, and periſh Everlaſtingly.
+<pb n="16" facs="tcp:41198:14"/> Know ere it be too late,<note place="margin">
+                     <hi>Prov.</hi> 11.4.</note> that Riches will not profit in the day of wrath, or be accepted as your Ranſome, and therefore truſt not in them,<note place="margin">
+                     <hi>Pſal.</hi> 62.10.</note> and <hi>when they encreaſe, ſet not your hearts upon them.</hi> I ſhall ſhutt up this with thoſe Golden Words of St. <hi>Auguſtin,</hi> which con<g ref="char:EOLhyphen"/>clude the third <hi>Tome</hi> of his Works.</p>
+               <p>
+                  <hi>Thou prideſt thy ſelf in thy Riches, and the Nobility of thy Ancestors, thou boaſtest of thy Country, and the Beauty of thy Body, and the Honours conferr'd upon thee; But conſider thy ſelf, that thou art Mortal, that thou art Dust, and must return to dust; Look upon them, who before thee, gliſtered with like gayeties; Where now are thoſe who were incircled with a traine of Citizens? Where the Inconquerable Emperours? Where thoſe who called, and could appoint Publick Aſſemblies, and Solemn Meet<g ref="char:EOLhyphen"/>ings? Now all is Dust, all's Aſhes. Now a few Verſes comprehend their story. Look now into their Graves, and ſee which was the Servant, which the Lord, which the Poor Man, which the Rich, diſtinguiſh if thou canst, the Captive from the King,</hi>
+                  <note place="margin">Divitiis, flo<g ref="char:EOLhyphen"/>ribus &amp; majo<g ref="char:EOLhyphen"/>rum Nobilitate te jactas, &amp; ex<g ref="char:EOLhyphen"/>ultas de Patria, &amp; pucritudine corporis, &amp; Ho<g ref="char:EOLhyphen"/>noribus qui tibi ab hominibus deferuntur: reſpice te quia mortalis es, &amp; Terra es, &amp; in terram ibis. Circumſpice eos qui ante te ſimilibus ſpendoribus fulſere. Ubi ſunt quos ambiebant Civium Potentatus? Ubi in Superabiles Imperatores? Ubi qui conventus diſhonebant &amp; Feſta? Ubi equorum ſpendidi invectores? Ubi exerci<g ref="char:EOLhyphen"/>cituum duces? Ubi Satrapae Tyrannici; Nunc omnia pulvis, nunc omnia favillae, nunc in paucis verſibus eorum vitae memoria; Reſpice Sepulchra, &amp; vide quis Servus, quis Dominus, quis Pauper, quis Dives, Diſcerne ſi potes Vinctuma Rege, Fortem a Debili Pulchrum a Deformi; Memor ſis itaque ne extollaris aliquando. Memor autem eris, ſi te ipſum reſpexeris.</note> 
+                  <hi>the Strong from the Weak, the Comly from the Deformed; think of this, and it will keep thee humble, and thou canſt not but remember it, un<g ref="char:EOLhyphen"/>leſs thou forget thy ſelf.</hi>
+               </p>
+               <p n="4">
+                  <pb n="17" facs="tcp:41198:14"/>4. <hi>Onely Children cannot eſcape;</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nigenitus, Quod plus est quam unicus, quem ſolum genuerat,</hi> The onely begotten on her that bare him; theſe are our <hi>Darlings,</hi> as we tranſlate <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nicam meam.</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 22.20.</note> No Argument moves pitty more, then when thoſe are taken from us; yet <hi>Death</hi> knows none to <hi>ſpare</hi> them to us; the <hi>Widow</hi> of <hi>Sarepta's Onely</hi> Son <hi>dyes,</hi>
+                  <note place="margin">1 <hi>King</hi> 17.17.</note> and ſo doth <hi>Jarus</hi>'s <hi>Onely</hi> Daughter;<note place="margin">St. <hi>Luke</hi> 7.42.</note> and <hi>Abraham</hi> muſt <hi>Offer</hi> up his <hi>Onely</hi> Son <hi>Iſaack</hi> whom he Loved,<note place="margin">
+                     <hi>Gen.</hi> 22.</note> and <hi>Jephtha</hi> his <hi>Onely</hi> Daughter.<note place="margin">
+                     <hi>Jud.</hi> 11.39</note>
+               </p>
+               <p>
+                  <hi>Death</hi> aymes ſo right, hee'l <hi>hit</hi> a ſingle mark, and needs not ſhoot at <hi>Herds;</hi> and <hi>God</hi> often guides his <hi>Darts</hi> this way:</p>
+               <p n="1">1. Becauſe they are <hi>Over-loved,</hi> and ſtand ſo full betwixt their Parents heart, and Him, He cannot be <hi>Lov'd</hi> Himſelf, till they are <hi>Removed</hi> out of'th way.</p>
+               <p n="2">2. To <hi>Try</hi> their <hi>Obedience, Faith</hi> and <hi>Patience,</hi>
+                  <note place="margin">
+                     <hi>Gen.</hi> 22.1.</note> as He <hi>Tempted Abraham.</hi>
+               </p>
+               <p n="3">3. To <hi>Honour</hi> them before the World, and make it known how <hi>quietly</hi> they'l part with any thing He pleaſes to call for, though never ſo dear.</p>
+               <p>
+                  <hi>Laſtly,</hi> to <hi>fit</hi> them by ſo deep a ſorrow for ſome more <hi>Excellent</hi> and laſting <hi>Good,</hi> and <hi>Joy,</hi> He hath in readineſs to give them in Exchange; It being Gods uſuall <hi>Method,</hi> as <hi>Luther</hi> Obſerves, when He hath ſome <hi>Eminent Comforts</hi> to beſtow, or ſome <hi>Signal Ser<g ref="char:EOLhyphen"/>vice</hi> to imploy us in, to <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> them in with ſome great Tryal, and Temptation.</p>
+               <pb n="18" facs="tcp:41198:15"/>
+               <p>Oh therefore let not thoſe, whoſe <hi>Store</hi> is ſo <hi>Com<g ref="char:EOLhyphen"/>pendious,</hi> too fondly <hi>hug</hi> thoſe deareſt <hi>Pledges,</hi> leaſt God grow <hi>jealous,</hi> and be forc't to deal with them, as he is uſed to do with his <hi>Rivalls;</hi> and thoſe who ſtand in <hi>Competition</hi> with <hi>Himſelf.</hi>
+               </p>
+               <p n="5">5. <hi>Whole Families may fail in Childleſs Heirs.</hi> Death takes <hi>root</hi> and <hi>branch,</hi> and doth not onely deal by <hi>Re<g ref="char:EOLhyphen"/>tale,</hi>
+                  <note place="margin">Tota cum Regi<g ref="char:EOLhyphen"/>bus regna popu<g ref="char:EOLhyphen"/>lique cum genti<g ref="char:EOLhyphen"/>ous tulere ſatum futum, Sen.</note> but ſlayes by <hi>Whole-Sale,</hi> and with compendious and ſtupendous ſtroaks, mowes down a Family at one blow, and ſweeps away the hopes of all Poſte<g ref="char:EOLhyphen"/>rity, as if he gap't for the Inheritance and all, and had reſolved with thoſe bloody Rebells,<note place="margin">St. <hi>Mat.</hi> 21.38.</note> 
+                  <hi>Come, this is the Heir, let us ſlay him, that the Inheritance may be ours.</hi>
+               </p>
+               <p>Thus <hi>fayled</hi> the two Young Sons of <hi>Greatest Alex<g ref="char:EOLhyphen"/>ander,</hi> Heirs of their Fathers Conqueſts, all the World; Thus half the Provinces <hi>Eſcheated</hi> into the hands of the People of <hi>Rome</hi> when they were Lords-Paramount of the Earth;<note place="margin">Vespaſian, An<g ref="char:EOLhyphen"/>toninus Philoſo<g ref="char:EOLhyphen"/>phus, Severus, Valerian. Domi<g ref="char:EOLhyphen"/>tian Commodus, Baſſianus, Gal<g ref="char:EOLhyphen"/>lienus.</note> and of <hi>Forty Emperours,</hi> from <hi>Julius Caeſar</hi> to <hi>Conſtantine</hi> the Great; but four, left Heirs of Lineal Deſcent, and all of them the <hi>Worst,</hi> which ever wore the Roman Purple; Their Fathers <hi>Vomicae &amp; Carcinomita,</hi> Soars and Ulcers, as <hi>Auguſtus</hi> called his Daughters,<note place="margin">Faelix Infortunio qui caret liberis, Sen.</note> three of whom had been happy unto Envy, had they dyed Childleſs, as <hi>Auguſtus</hi> wiſht he had Lived.</p>
+               <p>Oh! therefore let not your <hi>Inward thoughts</hi> be, that your <hi>Families</hi> ſhall continue for ever, and your <hi>Dwelling-Places</hi> bear your Names to all Generations;
+<pb n="19" facs="tcp:41198:15"/> 
+                  <hi>Their way, is their folly who do ſo,</hi> Pſal. 49.13. But know that <hi>Riches are not for ever, neither doth the Crown Endure to all Generations.</hi>
+                  <note place="margin">
+                     <hi>Prov.</hi> 27.24.</note> And let not ſuch <hi>blows</hi> too much <hi>deject</hi> thoſe on whom they <hi>Light,</hi> be<g ref="char:EOLhyphen"/>cauſe nothing is befallen them, <hi>but what is common to Man,</hi> 1 <hi>Cor.</hi> 10.13.</p>
+               <p n="6">6. <hi>Former ſorrows do not excuſe us from ſucceeding griefs.</hi> The poor <hi>Mother</hi> in the Text, whom the laſt <hi>Funeral</hi> made a <hi>Widow,</hi> is made <hi>Childleſs</hi> too by this. <hi>All thy Waves and Billowes are gone over me,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 42.7.</note> one in the neck, or on the back of another; troubles are often born out of the Womb of Providence, as <hi>Eſau</hi> and <hi>Jacob</hi> came from <hi>Rebecca,</hi> linckt together, and hold<g ref="char:EOLhyphen"/>ing each other by the heel.</p>
+               <p>Take we <hi>heed</hi> then we <hi>flatter</hi> not our ſelves, nor ſay with <hi>Agag, The bitterneſs is past,</hi> nor liſten to a <hi>Deſpe<g ref="char:EOLhyphen"/>rate</hi> and <hi>Blaſphemous</hi> ſuggeſtion, now let him do his <hi>Worst,</hi>
+                  <note place="margin">
+                     <hi>Not wickedly, as the Poet wit<g ref="char:EOLhyphen"/>tily.</hi> Nil quod istic agat tertia tuſſis habet, Mar. Mich. <hi>6.9.</hi>
+                  </note> I have no more <hi>Marks</hi> left for his <hi>angry Ar<g ref="char:EOLhyphen"/>rows,</hi> nor other <hi>Blots</hi> to <hi>hit;</hi> but with Submiſſe and Humble Reverence, lets <hi>hear</hi> the <hi>Rod</hi> at <hi>preſent,</hi> and <hi>fear</hi> it for the <hi>Future,</hi> and by the firſt laſh, be warned to prepare for, or to prevent the ſecond, and ſo to <hi>ſtand in awe, that we ſin not,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 4.4. <hi>John.</hi> 5.14.</note> 
+                  <hi>least a worſe thing come upon us,</hi> and what we judge the worſt, prove but the be<g ref="char:EOLhyphen"/>ginning of our ſorrows.</p>
+               <p>I might have <hi>added</hi> (and the rather becauſe, the <hi>caſe is Paralel.</hi>
+               </p>
+               <p n="7">7. That this <hi>Great, Young Man</hi> dyed not i'th <hi>Coun<g ref="char:EOLhyphen"/>try</hi> in ſome Remote Obſcure <hi>Ville,</hi> the Relatives of
+<pb n="20" facs="tcp:41198:16"/> them who dye ſo,<note place="margin">2 <hi>Chron.</hi> 16.12.</note> being ready with <hi>Aſa</hi>'s Spirit, to ſay to ſome Great <hi>Phyſitian,</hi> as <hi>Martha</hi> did to <hi>Christ;</hi> Sir,<note place="margin">
+                     <hi>John</hi> 11 21.</note> 
+                  <hi>If thou hadst been here, my Brother had not dyed.</hi> But in the <hi>City, Inter Turbam Medicorum,</hi> where pro<g ref="char:EOLhyphen"/>bably no <hi>Ayd</hi> was wanting, which Able, Skilfull <hi>Phy<g ref="char:EOLhyphen"/>ſitians</hi> could afford.</p>
+               <p>And 8. In his <hi>Mothers Houſe,</hi> and <hi>Boſome,</hi> who now was his Nurſe, the ſecond time her ſelf; and therefore he <hi>wanted not</hi> moſt Carefull <hi>looking too, tis not for want of Phyſick, or good Nurſes, that Men are cast away,</hi> or loſt, as ſome too often ſpeak; but where ever they be, and whatever help they do enjoy, whom Death comes for, he will not go without them; but will <hi>force</hi> them out of the moſt <hi>Skilfull, Faith<g ref="char:EOLhyphen"/>full, Painfull, Carefull, Loving</hi> and <hi>Tender</hi> hands, and all the Strongeſt Guards which thoſe can ſet about them.</p>
+               <p>Thus have you ſeen the <hi>Herſe</hi> paſſe by, and heard its <hi>Scutcheons Blazoned;</hi> wee'l <hi>view</hi> the train of <hi>mour<g ref="char:EOLhyphen"/>ners</hi> with a quicker glance. And that <hi>deep mour<g ref="char:EOLhyphen"/>ner</hi> following next-the-<hi>Beir,</hi> is his <hi>Diſtreſſed Mother,</hi> cloſe-hooded, with a Cloud, of thick, and blackeſt ſorrow; and over that, a vayle of <hi>Love,</hi> of <hi>Womans Love,</hi> of <hi>Mothers Love,</hi> of <hi>Mothers Love</hi> unto an <hi>Onely Son,</hi>
+                  <note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>? Nyſs. in func<g ref="char:punc">▪</g> Palch.</note> the trueſt Mourning dreſs; and over all, a <hi>dark <g ref="char:V">Ʋ</g>mbrella,</hi> made of the <hi>Shaddow of Death,</hi> ſup<g ref="char:EOLhyphen"/>ported by the fatal Siſters. <hi>She's the Chief Mourner,</hi> not in <hi>Pomp</hi> and <hi>Cerimony,</hi> but in deep <hi>Anguiſh,</hi> and <hi>bitterneſs</hi> of Soul. She brings him forth; — And
+<pb n="21" facs="tcp:41198:16"/> this is the <hi>ſecond</hi> time ſhe <hi>Travells</hi> of him (and no Travells ſo difficult as of dead Children) he came from her <hi>Womb before,</hi> but <hi>now,</hi> and <hi>never</hi> untill <hi>now</hi> he comes from her <hi>Inmoſt Bowells,</hi>
+                  <note place="margin">St <hi>Luke</hi> 2.35. A Sword ſhall pierce through thy own Soul.</note> her former <hi>Pangs</hi> might <hi>rend</hi> her <hi>Fleſh,</hi> theſe ſmarter <hi>throws</hi> do <hi>Rack</hi> and <hi>Tear</hi> her very <hi>Heart</hi> and <hi>Soul;</hi> and as before, he was born for her <hi>Eaſe,</hi> though with her <hi>Paine,</hi> ſo now doth ſhe <hi>bring him forth</hi> for her <hi>Safty,</hi> though with great <hi>Danger;</hi> ſhe is in danger to weep to death at <hi>parting, yet must they part;</hi> If <hi>ſhe'l</hi> not <hi>ſend</hi> out <hi>him, he'l ſent</hi> out her; one Houſe cannot hold them now, ſuch is our ſad neceſſity,<note place="margin">
+                     <hi>Gen.</hi> 2.34.</note> 
+                  <hi>We must bury our dead out of our ſight</hi> and <hi>ſmelling;</hi> but ſhe's reſolved to ſee him Hous'd and Lodg'd, in his <hi>Long home;</hi> and while he paſſes thither, the <hi>Mourners go about the Streets. Much People of the City was with her.</hi>
+               </p>
+               <p>Tis a <hi>Cuſtome</hi> without date, and might have urged preſcription many Ages ſince,<note place="margin">Antiquorum p<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſtorum <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> curati ſunt, &amp; exequiae cele<g ref="char:EOLhyphen"/>bratae, &amp; ſepul<g ref="char:EOLhyphen"/>tura proviſa. Aug. de cura pro murt.</note> for Friends to give at<g ref="char:EOLhyphen"/>tendance at the Obſeques of their diſceaſed Wor<g ref="char:EOLhyphen"/>thies; this we read <hi>practiſed,</hi> and <hi>approved,</hi> both, in <hi>Sacred</hi> and <hi>Common</hi> Story; thus, at the death of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> his Sons are ſaid to bury him, ſo <hi>Iſaac,</hi> ſo <hi>Jacob,</hi> of whom it is Recorded,<note place="margin">
+                     <hi>Gen.</hi> 25.9.25.29, 50, 7, 8.</note> that <hi>Joſeph went up to bury his Father, and with him went up all the Servants of</hi> Pharaoh, <hi>and the Elders of his Houſe, and all the Elders of the Land of</hi> Aegypt; <hi>And all the Houſe of</hi> Joſeph, <hi>and his Brethren and his Fathers Houſe; and they went up with Chariots, and with Horſe-men, and it was a very great Company, and they Mourned with a very great and ſore Lamentation.</hi>
+               </p>
+               <pb n="22" facs="tcp:41198:17"/>
+               <p>
+                  <note place="margin">2 <hi>Sam.</hi> 25.1. 1 <hi>Kings</hi> 14.13. 2 <hi>Chron.</hi> 24, 15, 16. <hi>Acts</hi> 8.2.</note>So all <hi>Iſrael</hi> Lamented <hi>Samuel,</hi> and buried him, ſo <hi>David</hi> and <hi>Jeroboams</hi> Young Son, and <hi>Jehojada,</hi> and <hi>Joſiah,</hi> 2 <hi>Chron.</hi> 35.25.</p>
+               <p>So <hi>St. Stephen</hi> in the New Teſtament, <hi>Whom de<g ref="char:EOLhyphen"/>vout men buried, and made great Lamentation for him.</hi> Not that this avails them any thing as to their ſtate in the other World; For <hi>Corpori humano quicquid im<g ref="char:EOLhyphen"/>penditur, non est preſidium ſalutis, ſed humanitatis offi<g ref="char:EOLhyphen"/>cium.</hi>
+               </p>
+               <p>But 1. Is for their <hi>Honour</hi> here, being a <hi>decent Re<g ref="char:EOLhyphen"/>ſpect</hi> we pay to their <hi>Name</hi> and <hi>Memory,</hi> it being a fa<g ref="char:EOLhyphen"/>vour to live <hi>Deſired,</hi> and dye <hi>Lamented,</hi> and a <hi>Curſe,</hi> and <hi>Reproach</hi> to be buried,<note place="margin">
+                     <hi>Jer.</hi> 22.19.</note> with the burial of an <hi>Aſs,</hi> as was threatned againſt <hi>Jehojakim,</hi> and others, <hi>They ſhall not be lamented nor buried,</hi>
+                  <note place="margin">
+                     <hi>Jer.</hi> 6.4.</note> 
+                  <hi>but be as dung upon the face of the Earth, which is an Earnest that their Names ſhall Rot.</hi>
+               </p>
+               <p n="2">2. <hi>Charitatis ergò,</hi> In <hi>Charity</hi> to the Living for their <hi>Comfort,</hi> and alleviating of their ſorrow, while their burden is made lighter, by many helping them to bear it, as the Jewes came lovingly to <hi>Comfort Martha and Mary becauſe of their Brother Lazarus. Curatio funeris,</hi>
+                  <note place="margin">
+                     <hi>John</hi> 11.31.</note> 
+                  <hi>conditio Sepulturae, pompa exequiarum, magis vivorum ſolatia ſunt, quam ſubſidia mortuo<g ref="char:EOLhyphen"/>rum.</hi>
+                  <note place="margin">Auguſt. Ubi Sup<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra.</note>
+               </p>
+               <p n="3">3. <hi>Pietatis ergò,</hi> For their own advantage, and in<g ref="char:EOLhyphen"/>creaſe of piety; <hi>Tis good to go to the Houſe of Mourn<g ref="char:EOLhyphen"/>ing,</hi>
+                  <note place="margin">
+                     <hi>Eccl.</hi> 7.3.</note> 
+                  <hi>for by the ſadneſs of the Countenance, the heart is made better, while the living lay it to their heart.</hi> The
+<pb n="23" facs="tcp:41198:17"/> Houſe of Mourning is the School of Wiſdome, the Grave hath a <hi>Teaching,</hi> as well as a <hi>Devouring</hi> mouth, and the Coffin is a Pulpit from whence the <hi>Dead yet ſpeak,</hi> and warn us to behold our mortality in their frailty, and to prepare to follow them, to dye to this uncertain World, to mortifie our ſins that they may dye before us, and to make ſure of the firſt Reſur<g ref="char:EOLhyphen"/>rection, that as we <hi>must</hi> dye <hi>once,</hi> we <hi>may</hi> dye <hi>but once.</hi>
+               </p>
+               <p n="4">4. <hi>Fidei teſtiſicandae ergò,</hi>
+                  <note place="margin">Propter fidem reſurrectionis Astruendam.</note> to teſtifie our <hi>Faith</hi> in that great Article of the Reſurrection of the dead, which is the <hi>Baſis</hi> of a Chriſtians Comforts, <hi>Tota ſpes Chriſtianorum Reſurrectio mortuorum;</hi> For,<note place="margin">1 <hi>Cor.</hi> 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>if in this life onely we have hope, we are of all men most Mi<g ref="char:EOLhyphen"/>ſerable.</hi>
+               </p>
+               <p>Now in this <hi>Solemn Equipage</hi> theſe Mournfull Friends bring forth this Corps,<note place="margin">Hinc coll<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>deos Sepulch<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ſua habuiſſe non in Urbe ſed extra Urbem idque tum obnitorem tum ob<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cada<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>era ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>o foetore &amp; pu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dine a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cerent <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Lap.</note> are carrying him out of the City, both as the Jewes and Romans uſed to bury; <hi>Ob nitorem, ſanitatem, legalem munditiem.</hi>
+               </p>
+               <p n="1">1. For <hi>Decency</hi> and <hi>Splendour</hi> that the Graves and Sepulchers might not deface the comlineſs and beauty of their Cities.</p>
+               <p n="2">2. For <hi>Safety</hi> and <hi>Health,</hi> that the <hi>fetent exhala<g ref="char:EOLhyphen"/>tions,</hi> and <hi>noyſome</hi> and <hi>noxious vapours</hi> of the Graves might not infect the ayre, and hazzard the health of the Living.</p>
+               <p n="3">3. <hi>For legal purity and cleaneſs,</hi> that neither them<g ref="char:EOLhyphen"/>ſelves nor habitations might be <hi>defiled</hi> by the dead; and our preſent cuſtome of burying in or about our
+<pb n="24" facs="tcp:41198:18"/> 
+                  <hi>Churches</hi> and places of our Solemne Aſſemblies for Gods Worſhip, was brought in upon Opinion that it would <hi>advantage the dead</hi> to be buried near ſome <hi>holy Martyr,</hi> over whoſe Graves uſually thoſe <hi>Baſilicae,</hi> Stately Edifices were <hi>Erected;</hi> and the anſwering of that caſe, propounded to him by <hi>Paulinus</hi> Biſhop of <hi>Nola, <g ref="char:V">Ʋ</g>trum proſit alicui pest mortem, quod corpus ejus apud ſancti alicujus memoriam ſepelitur,</hi> gave oc<g ref="char:EOLhyphen"/>caſion to <hi>St. Auguſtin</hi> to Write that Book, <hi>De Cura pro Mortuis gerenda,</hi> in the 4th Tome of his Works, where he reſolves it in the Negative.</p>
+               <p>Thus have you paſt the <hi>cloudy ſide</hi> of the <hi>Text,</hi> which hath <hi>beſprinkled</hi> you with ſhowers of ſorrow, whilſt you were viewing of the <hi>Herſe,</hi> the <hi>Mourners,</hi> and their <hi>Solemn March,</hi> while they attend deaths <hi>Chariot,</hi> thats carrying home his priſoner to the houſe of darkneſs.</p>
+               <p>And now we have compaſt it ſo long, untill the <hi>brighter</hi> ſide begins to <hi>glimmer</hi> and <hi>appear,</hi> for <hi>Behold,</hi> yea behold and wonder at the <hi>ſeaſonable</hi> mercy, the <hi>Lord</hi> of <hi>Life</hi> and <hi>Death</hi> moſt unexpectedly appears;<note place="margin">Janſenius in Loc.</note> Chriſt, <hi>Cujus occurſus &amp; obtutus, ſemper faelix est &amp; fauſtus,</hi> Comes and meets them at the very <hi>Gate,</hi> and brings relief and reſcue, and gives a <hi>cordial</hi> to the <hi>fainting</hi> Mother, — <hi>Weep not.</hi>
+               </p>
+               <p>The Order is thus,</p>
+               <p n="1">1. He meets the Object ſeaſonably, both the <hi>Courſe,</hi> and <hi>Mourners, — He ſaw her.</hi>
+               </p>
+               <p n="2">
+                  <pb n="25" facs="tcp:41198:18"/>2. That moves his heart effectually, — <hi>He was moved with compaſſion.</hi>
+               </p>
+               <p n="3">3. That commands his tongue to ſpeak good words and Comfortable; — <hi>Weep not.</hi> Obſerve.<note place="margin">Affectum cordis, affatem oris effectum operis commitatur. <hi>Bonivent.</hi>
+                  </note>
+               </p>
+               <p n="1">1. <hi>The Lord is near, and ready, in our greatest ſtreights.</hi>
+               </p>
+               <p n="2">2. <hi>Christ was exceeding full of tenderest humanty and Bowells.</hi>
+               </p>
+               <p n="3">3. <hi>Chriſts compaſſions are active and relieving, full of help, He pitties, then He ſpeaks.</hi>
+               </p>
+               <p n="1">1. The <hi>Lord is near,</hi> — not in his eſſence only in which reſpect he's never <hi>far</hi> from any;<note place="margin">
+                     <hi>Acts</hi> 17.</note> 
+                  <hi>For in him we live and move and have our being,</hi> but in his gra<g ref="char:EOLhyphen"/>cious compaſſions, willing to <hi>meet</hi> us, in our moans and plaints. Yea, ready to prevent us, and before we <hi>call,</hi> to <hi>anſwer.</hi> Our ſtreights are often ſuch they cannot bear thoſe <hi>tarda molimina,</hi> thoſe <hi>ſuccours</hi> which are <hi>ſlow,</hi> though <hi>ſure.</hi> He knows, that <hi>hope defer'd, deſtroys,</hi> therefore will not defer, but comes on <hi>Eagles</hi> wings, and often doth un-askt, what we are taught to aske him; <hi>O God make ſpeed to ſave us, O Lord make hast to help us.</hi> He that hath charged us, <hi>Not to with hold good from them to whom it is due, when it is in the power of our hand to do it,</hi>
+                  <note place="margin">
+                     <hi>Prov.</hi> 3.27, 28.</note> 
+                  <hi>nor to ſay to our Neighbour, go, and come again, and to morrow I will give, when thou hast it by thee;</hi> will not do ſo him<g ref="char:EOLhyphen"/>ſelf.</p>
+               <p n="2">2. <hi>Christ was exceeding full of tenderest bowells;</hi> He <hi>wept</hi> over <hi>Lazarus,</hi> and He <hi>wept</hi> over <hi>Jeruſalem, —
+<pb n="26" facs="tcp:41198:19"/> Oh Jeruſalem, Jeruſalem, that thou hadst known the things which do concern thy peace;</hi>
+                  <note place="margin">
+                     <hi>Mat.</hi> 9.36.14.14.</note> — His <hi>Bowells</hi> yearned here, and He was moved with Compaſſion often towards others.</p>
+               <p>
+                  <hi>Christ</hi> in the <hi>Fleſh,</hi> is the <hi>Viſible</hi> Image of the <hi>Invi<g ref="char:EOLhyphen"/>ſible</hi> God,<note place="margin">
+                     <hi>Pſal.</hi> 111.4.112.4.</note> and to our <hi>ſence</hi> and ſweeteſt <hi>experience</hi> he makes it manifeſt, that <hi>the Lord is good to all,</hi> and <hi>that his tender mercies are over all his works;</hi> that the <hi>Lord is full of Compaſſion and Gratious;</hi> and while he ſees the Mother weeping, and not able to forget her Son, it minds him of his promiſe,<note place="margin">
+                     <hi>Iſa.</hi> 49.15.</note> 
+                  <hi>Can a Woman forget her Child, that ſhe ſhould not have compaſſion on the Son of her Womb?</hi> Yea, <hi>they may forget,</hi> yet will not I forget thee.<note place="margin">Leo, ut fortiſ<g ref="char:EOLhyphen"/>ſimus, ita cle<g ref="char:EOLhyphen"/>mentiſſimus, <hi>Saith the Na<g ref="char:EOLhyphen"/>turaliſt.</hi>
+                  </note> He is the Lamb, the Dove, the Lion, (which is as kind as ſtrong) <hi>Emblems</hi> all of Clemency.</p>
+               <p>It argued great ſweetneſſe to vouch-ſafe to <hi>look</hi> on mournfull objects, when he <hi>met</hi> them, and more to <hi>go</hi> and <hi>find</hi> them out, as here. <hi>Caſu &amp; fortuito ſi cauſas ſecundas ſpectes occurrit Chriſto ſunus, ſed Chriſto hic occurſus erat previſus, proviſus &amp; deſtinatus ut mortuum ſanaret.</hi> He came not by chance, but on de<g ref="char:EOLhyphen"/>ſigne to help.</p>
+               <p>Oh then, let us not <hi>deſpond</hi> in any of our ſorrows; <hi>Tis well worth while to be diſtrest, to have the Lord Com<g ref="char:EOLhyphen"/>paſſionate us;</hi> and doubtleſſe he is as ready now to do it,<note place="margin">As St. <hi>August.</hi> Of his Mother.</note> as when he was on Earth. <hi>Abſit ut vita faeliciori factus ſit credelis,</hi> God forbid we ſhould ſuppoſe him leſſe kind by being more Glorious and Happy; though he be in Heaven; from <hi>Heaven</hi> he beholds the
+<pb n="27" facs="tcp:41198:19"/> Children of Men, and <hi>conſiders</hi> not our <hi>ſins</hi> only, but our <hi>Sorrows</hi> alſo; We have him ſtill, ſuch an <hi>High Priest, As can be touched with our In<g ref="char:EOLhyphen"/>firmities,</hi> though he be <hi>Paſſed into the Heavens,</hi> As the Apoſtle expreſly Speaks, <hi>Heb.</hi> 4.14, 15.</p>
+               <p>And <hi>Let the ſame mind be in us which was,</hi>
+                  <note place="margin">
+                     <hi>Phil.</hi> 2.5.</note> and is alſo, <hi>in Christ Jeſus;</hi> Let us not turn a<g ref="char:EOLhyphen"/>way our eyes with <hi>Cruell, Proud,</hi> or <hi>Coy</hi> diſdain from the ſorrowfull objects which meet us in every Street; <hi>Turn not thine eye away from thine own Fleſh.</hi>
+               </p>
+               <p>Let <hi>our eye affect our hearts</hi> with Sympathy,<note place="margin">
+                     <hi>Lam.</hi> 3.51.</note> and <hi>let us have compaſſion on one another,</hi>
+                  <note place="margin">1. <hi>Pet.</hi> 3.9.</note> 
+                  <hi>and Love as Brethren,</hi> and be <hi>Pittifull</hi> and <hi>courteous.</hi>
+               </p>
+               <p n="3">3. <hi>Chriſts compaſſions are Active and R lieving.</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi> He <hi>Pitties,</hi> then He <hi>Comforts,</hi> then He <hi>Helps.</hi>
+               </p>
+               <p>His Office is to <hi>comfort</hi> them that <hi>mourn</hi> in <hi>Zion, to bind up the broken-hearted,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 61.1, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 3.</note> and to give the <hi>Oyle of gladneſs for mourning,</hi> and he is faithfull, and will diſ<g ref="char:EOLhyphen"/>charge his <hi>Trust,</hi> and his <hi>Title</hi> is, <hi>He that comforteth them who are cast down?</hi> He hath not onely a <hi>Bag</hi> for our <hi>Iniquities,</hi> to ſeal up them, but a <hi>Bottle</hi> for our <hi>tears</hi> to put them up. He doth not <hi>delight</hi> to <hi>grieve</hi> us, and when he is <hi>conſtrained</hi> to do it, <hi>In all our Af<g ref="char:EOLhyphen"/>fliction he is Afflicted,</hi> and <hi>Sympathizeth</hi> with us, and the <hi>wounds</hi> he <hi>makes,</hi> he <hi>heals,</hi> and bindeth up, and cauſeth the <hi>bones</hi> which he hath <hi>broken</hi> to <hi>rejoyce.</hi>
+                  <note place="margin">
+                     <hi>Prov.</hi> 12.25.</note>
+               </p>
+               <pb n="28" facs="tcp:41198:20"/>
+               <p>And becauſe a <hi>good</hi> word makes <hi>glad</hi> the heart, which <hi>ſtoopes</hi> with <hi>heavineſs,</hi> and is the <hi>earnest</hi> of far<g ref="char:EOLhyphen"/>ther help, therefore he ſpeaks good words, and com<g ref="char:EOLhyphen"/>fortable words: Woman, why <hi>weepest thou?</hi> be of <hi>good chear,</hi>
+                  <note place="margin">Deſiſte mortuum fl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re, qu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vivum <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſurg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re videbis, <hi>A Lap.</hi>
+                  </note> — <hi>Weep not,</hi> — and many more like theſe. He dry es her <hi>eyes</hi> with his <hi>Word,</hi> whoſe <hi>heart</hi> ſhall be relieved by his <hi>work:</hi> theſe words, <hi>weep not,</hi> do not forbid <hi>Naturall Affection,</hi> but inordinate <hi>paſ<g ref="char:EOLhyphen"/>ſion,</hi> not <hi>tears</hi> ſimply, but their exceſs, <hi>(for all exceſs is ſin)</hi> not tears of <hi>Sympathy</hi> and <hi>parentall tenderneſſe,</hi> and <hi>pious Bowells,</hi> for he <hi>wept</hi> for <hi>Lazarus</hi> himſelf; but <hi>repining</hi> tears, <hi>diſpairing</hi> tears, the tears of them who <hi>ſorrow as Men without hope;</hi> and he that ſaid unto her, <hi>Weep not,</hi> was reſolved to give her Cauſe, to take his Council, and to <hi>ſluce</hi> up effectually thoſe <hi>griefs,</hi> he there indeavours to <hi>aſſwage.</hi>
+               </p>
+               <p>And although from this particular and <hi>ſpecial</hi> caſe and <hi>Miracle</hi> we cannot argue that we may expect the <hi>ſame</hi> or like in <hi>kind;</hi> yet, in it may we read his <hi>heart</hi> and <hi>hand,</hi> and be aſſured both of his <hi>Ability</hi> and <hi>Wil<g ref="char:EOLhyphen"/>lingneſs</hi> to help in greateſt ſtreights; yea of his Wiſ<g ref="char:EOLhyphen"/>dome too, that he knows <hi>how</hi> and <hi>when</hi> to do it, ſo as ſhall be <hi>best;</hi> and that he will not ſuffer us to be <hi>tempted above what we are able to bear,</hi> but will fit our <hi>burdens</hi> to our <hi>backs,</hi> or elſe our <hi>back</hi> to our <hi>burden,</hi> and will counterpoize our <hi>ſorrows,</hi> with ſome equi<g ref="char:EOLhyphen"/>valent joyes, or will ſo <hi>strengthen</hi> our Faith, <hi>increaſe</hi> our patience, and <hi>calme</hi> and ſedate our minds with
+<pb n="29" facs="tcp:41198:20"/> ſilent <hi>Acquieſcence,</hi> and through <hi>Reſignation,</hi> that all the <hi>
+                     <g ref="char:V">Ʋ</g>neaſineſs,</hi> and diſcompoſing <hi>Moleſtation</hi> of our <hi>heavieſt burdens,</hi> ſhall be removed.<note place="margin">Quia hoc auxi<g ref="char:EOLhyphen"/>lium eſt extra<g ref="char:EOLhyphen"/>ordinarium mi<g ref="char:EOLhyphen"/>raculum nos ſane non habemus ſpecialem promiſſionem quod Deus tali extraordinario modo nos velit ſub<g ref="char:EOLhyphen"/>levare. Sed hoc miraculo confirmatur generalis promiſſio &amp; fides quod habemus talem pontificem qui conſpectu noſtrarum calamitatum ad ſympathiam commovetur, quique licet differat tamen fidelis eſt, nec ſinit nos tentari ultra quam poſſumus, 1 <hi>Cor.</hi> 10.13. Sed vel liberat, vel mitigat, vel cor conſolatione perfundit, patientia confirmat, fide erigit, &amp; ſuſtentat &amp; haec eſt vera explicatio iſtius, beati qui lugent quia conſolationem accipient.</note>
+               </p>
+               <pb facs="tcp:41198:21"/>
+               <figure>
+                  <p>GARDE TA FOY.</p>
+                  <figDesc>engraving of an effigy on a tomb, with coats of arms</figDesc>
+                  <q>JÁY GARDÉ LA FOY. <bibl>2. <hi>Tym:</hi> 4:7.</bibl>
+                  </q>
+                  <p>
+                     <hi>Ex Hoc momento Aeternitas.</hi> 1664</p>
+               </figure>
+            </div>
+            <div n="2" type="section">
+               <pb n="31" facs="tcp:41198:21"/>
+               <p>I now come to my <hi>other Text,</hi> a <hi>Text indeed, dark</hi> and moſt <hi>intricate;</hi> Though all the <hi>Texts</hi> of Providence are hardly <hi>commented,</hi> yet ſome are more <hi>abſtruce;</hi> and needs muſt th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s be ſuch, which is an <hi>intangled compli<g ref="char:EOLhyphen"/>cated heap</hi> of <hi>difficulties;</hi> a <hi>Text</hi> that is written in <hi>Text Letters</hi> (the blackeſt of all Characters) in the Vo<g ref="char:EOLhyphen"/>lume of Gods works. You have heard <hi>One</hi> Sermon, and if your <hi>Eares</hi> be <hi>tyred,</hi> let your <hi>Eyes relieve</hi> them; (but I muſt confeſſe tis ſad relief) come <hi>ſee</hi> another; and, As, <hi>we have heard, ſo have we ſeen,</hi>
+                  <note place="margin">St. <hi>Luke</hi> 4.21.</note> 
+                  <hi>t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is day is this Scripture fulfulled in your cares,</hi> and eyes. Lo, <hi>here is</hi> an <hi>heavier</hi> Comment on our <hi>heavy</hi> Text alas, but too exact a Counterpayne of that ſad Narrative! the <hi>Ser<g ref="char:EOLhyphen"/>mon tranſlated</hi> into ſuch a <hi>Language,</hi> as your <hi>eyes</hi> can underſtand. A <hi>Sacrament</hi> added to the <hi>Word,</hi> to con<g ref="char:EOLhyphen"/>vince you, and confirm your <hi>Faith,</hi> of Mans Morta<g ref="char:EOLhyphen"/>lity, beyond <hi>recoyle</hi> or <hi>heſitancy; En magnum fragili<g ref="char:EOLhyphen"/>tatis humanae Sacramentum,</hi> the word confirmed by viſible ſignes. My <hi>Text</hi> of <hi>Death</hi> ſo <hi>painted</hi> to the <hi>Life,</hi> that he, that <hi>runs may read it;</hi> If e're twere true, <hi>tis now,</hi> that, <hi>Pictures are Idiots Books;</hi> Look on that dolefull Picture of fading <hi>Youth</hi> and <hi>Greatneſs;</hi> and you that <hi>can</hi> never a Letter in the Book, may <hi>ſpell</hi> the whole <hi>Story,</hi> word for word, without Inſtructer.</p>
+               <pb n="32" facs="tcp:41198:22"/>
+               <p>Oh you <hi>Ingenious,</hi> but <hi>Fruitleſs,</hi> and ſo <hi>unhappy ſearchers,</hi> for an <hi>univerſall character,</hi> which may with <hi>ſtill</hi> and <hi>ſilent</hi> glances, conveigh and whiſper to our <hi>Intilect,</hi> the natures and notices of things. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, we <hi>find</hi> alas <hi>too ſoon,</hi> what you have <hi>ſought too long.</hi> Though I were <hi>dumb,</hi> or had <hi>forgot</hi> my Text, one glance <hi>repeats</hi> it unto them, <hi>recalls</hi> it unto me.</p>
+               <p>
+                  <note place="margin">In paucis verbis quantae calami<g ref="char:EOLhyphen"/>tates &amp; miſeriae?</note>In that <hi>viſible</hi> Sermon; <hi>Behold,</hi>
+                  <list>
+                     <item>
+                        <hi>A Dead Man.</hi>
+                     </item>
+                     <item>
+                        <hi>A Young Man.</hi>
+                     </item>
+                     <item>
+                        <hi>A Great, a Noble Man.</hi>
+                     </item>
+                     <item>
+                        <hi>An Onely begotten Son.</hi>
+                     </item>
+                     <item>
+                        <hi>An Heir without an Heir. — Each w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rd's a wound.</hi>
+                     </item>
+                  </list> Here are <hi>all</hi> the mournfull circumſtances but <hi>one,</hi>
+                  <note place="margin">Quot verba, tot vulnera;</note> and bleſſed be God that we meet a full ſtop, before we read to the end of the line. — <hi>And ſhe was a Widow,</hi> let us lay <hi>hold</hi> on't as a <hi>better Omen,</hi> there may be yet a bleſſing in it; Let this a while ſuſtaine you till I can run, and fetch you ſome more <hi>Cordialls;</hi> which you muſt ſtay a little for, becauſe my way lyes round the <hi>Herſe</hi> again, the viewing which, will ſtop my haſt.</p>
+               <p n="1">1. That <hi>Mournfull ſable Pall,</hi> tells us ſad tidings, that a <hi>Man</hi> is <hi>Dead,</hi> and <hi>ſhrouded</hi> under it; and tis alas too true, the <hi>dead remains</hi> of him, who this day <hi>Seven-night</hi> was <hi>alive,</hi> and this day <hi>Fort-night</hi> was a <hi>Lively, Likely</hi> Man to <hi>live; Verily every Man living is altogether vanity.</hi> Hear what advice he whiſpers, <hi>Watch,</hi> for whats my caſe to day, may be thine to morrow;<note place="margin">Hodie mihi, eras tiöi.</note> 
+                  <hi>Be ye therefore ready alſo, for the Son of Man
+<pb n="33" facs="tcp:41198:22"/> cometh when you think not,</hi>
+                  <note place="margin">St. <hi>Luke</hi> 12.40.</note> 
+                  <hi>and in an hour when ye are not aware.</hi>
+               </p>
+               <p n="2">2. A <hi>Young Man</hi> in the Flower and Blooming of his Age, not fully yet of <hi>Age,</hi> not of <hi>Diſpoſing</hi> Age, in the Laws and Stile of <hi>England;</hi> Yet at <hi>Age</hi> to be diſpos'd of in the <hi>Chambers</hi> of Death: An <hi>Ear,</hi> nay, an whole <hi>Sheaf,</hi> nay, an whole <hi>Field, Reapt</hi> by Death's Fatall <hi>Sickle,</hi> before 'twas <hi>ripe,</hi> or <hi>ſet,</hi> or <hi>Kern'd;</hi> As if in an immature Harveſt, you ſhould reap to<note n="*" place="margin">Being in <hi>May.</hi>
+                  </note> morrow; a <hi>Roſe Bud</hi> gather'd ere 'twas blown; a <hi>Torch</hi> puft out, not half conſumed;<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Greg. Nyſs. de Pulch.</note> an <hi>Hour-Glaſs</hi> daſh't, and paſh't in peices, and all the Sand ſpilt, and loſt, before it was a third part run: <hi>What Age is ſafe from Fate?</hi> In the very mid'ſt of Life we are in Death; Of whom may we look for help, but from thee O Lord, who for our ſins moſt juſtly are diſpleaſed?<note place="margin">
+                     <hi>Pſal.</hi> 90.12.</note> 
+                  <hi>Oh Teach us to Number our dayes, that we may apply our hearts to Wiſdome, and that we may know how frail we are.</hi>
+               </p>
+               <p n="3">3. But thoſe Coat Armours, <hi>Ruby</hi> and <hi>Topas, Dia<g ref="char:EOLhyphen"/>mond</hi> and <hi>Pearle,</hi> ſpeak him ſome Noted Perſonage.<note place="margin">Nobilis quaſi no<g ref="char:EOLhyphen"/>ſcibilis.</note> I need not aske the Queſtion here, which <hi>David</hi> ask't over <hi>Abner</hi>'s Herſe; <hi>Know You not that a Prince and a Great Man is fallen this day?</hi> You know it well, unto your Coſt and Sorrow; and ſee, by Dear Ex<g ref="char:EOLhyphen"/>perience; In this <hi>Fourth</hi> dolefull <hi>Instance,</hi> in one <hi>Fa<g ref="char:EOLhyphen"/>mily,</hi> all of <hi>Recent,</hi> and <hi>Freſh-bleeding Memory;</hi> that <hi>Earldoms,</hi> and <hi>Perage Nobility,</hi> and <hi>Honour, Lordſhips,</hi>
+                  <pb n="34" facs="tcp:41198:23"/> and <hi>Manours, Poſſeſſions,</hi> and <hi>Apparances, Gold,</hi> and <hi>Silver, Pallaces,</hi> and <hi>Parks,</hi> and ſtore of <hi>Rich<g ref="char:EOLhyphen"/>eſt Lands,</hi> and <hi>Tallest Timber;</hi> and what ever elſe the World calls <hi>Noble, Grand,</hi> and <hi>Stately;</hi> cann't ſhade, or hide their <hi>Lords</hi> from <hi>Death,</hi> are no good <hi>Brest-Works</hi> againſt his <hi>Bullets;</hi> nor beſt charg'd <hi>Shields, ſecurity</hi> againſt the <hi>Arrows</hi> of <hi>Mortality.</hi> Death with his ill-match't-pair, of <hi>Pale</hi> and <hi>Sable Hackneyes,</hi> out-drives the goodlieſt Sets of <hi>Sixes.</hi>
+               </p>
+               <p>'Twere as <hi>impertinent,</hi> as the <hi>Philoſopher</hi>'s reading a Lecture of War-like Diſcipline in the preſence of <hi>Hanniball;</hi> for me to <hi>unfurle</hi> his crimſon <hi>Enſigns,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nfold</hi> and <hi>Diſplay</hi> his <hi>Splendid Banners,</hi> or paint out, and Deliniate his thrice Honourable <hi>Stem,</hi> amongſt thoſe to whom they have been now ſo long <hi>Familiar;</hi> and as ſuperfluous to <hi>Blazon</hi> his Scutche<g ref="char:EOLhyphen"/>ons in that Country, which hath to long been irra<g ref="char:EOLhyphen"/>diated in every corner, with the Illuſtrious Rayes of his croſs-Croſſets <hi>Sol,</hi> in their Field <hi>Mars;</hi> or inrich<g ref="char:EOLhyphen"/>ed and ſecured by thoſe <hi>Ruby</hi> Shields, gliſtering with <hi>Topaz.</hi>
+               </p>
+               <p>'T would but <hi>Adorn</hi> Deaths ſpoyles, and more <hi>In<g ref="char:EOLhyphen"/>haunce</hi> his Triumphs, to tell you that his <hi>Captive,</hi> was the <hi>Onely-Son</hi> of an Antient <hi>Hereditary</hi> Earle<g ref="char:EOLhyphen"/>dome; By <hi>Blood,</hi> and <hi>Marriage,</hi> The <hi>Son</hi> of <hi>Two,</hi> the <hi>Grand-Child</hi> of <hi>Four</hi> Eminent Earls; and as many Counteſſes; and <hi>Nephew</hi> to more <hi>Peers,</hi> then all <hi>Arithmetick</hi> hath <hi>Digits; Deriv'd</hi> from, or <hi>Alli'd</hi> to, almoſt all the <hi>Noble</hi> Blood, that runs in <hi>Engliſh,</hi> and in <hi>Engliſh-Iriſh</hi> Veins.</p>
+               <pb n="35" facs="tcp:41198:23"/>
+               <p>A <hi>Branch</hi> of two <hi>Families:</hi> The <hi>One</hi> the Grand Nurſery of <hi>Antient Piety:</hi>
+                  <note place="margin">His Mother was the Lady <hi>Mary Boyl,</hi> Daughter to the Earle of <hi>Corck.</hi>
+                  </note> the <hi>Other</hi> the Happy Source of <hi>Newest Ingenuity;</hi> a <hi>Society of virtuoſi with<g ref="char:EOLhyphen"/>in themſelves;</hi> the <hi>Original,</hi> and <hi>Architypes</hi> of thoſe, <hi>Inſigniz'd</hi> with that Noble <hi>Character;</hi> In a word, the Son of Two Bloods, which I may boldly call; not the <hi>least</hi> Ornaments, of two <hi>Great</hi> Kingdomes: And <hi>indued,</hi> with all thoſe <hi>Generous, Lovely, Inno<g ref="char:EOLhyphen"/>bling</hi> Excellencies, which might <hi>Retribute</hi> what he <hi>Borrowed</hi> from ſuch <hi>Blood,</hi> and would (Oh unhap<g ref="char:EOLhyphen"/>pineſs he hath not!) have <hi>Tranſmitted</hi> it to his <hi>Po<g ref="char:EOLhyphen"/>sterity,</hi> Inrich't (if it be capable of more, and hath not attain'd its <hi>Acme</hi>) with <hi>increaſed</hi> glory; Yet <hi>now</hi> muſt lye down in <hi>Obſcurity</hi> and <hi>Dust,</hi> under the <hi>Diſhonours, Reproaches</hi> and <hi>Squallidneſs,</hi> of Death; <hi>Stript</hi> and <hi>Deſrobed</hi> of all his <hi>Amiable, Manly, Goodly, Beauty, Proportions, Features;</hi> calling <hi>Corruption, Rottenneſs,</hi> and <hi>Worms; Mother, Brother, Siſter.</hi>
+               </p>
+               <p>
+                  <hi>Ceaſe then from Man whoſe breath is in his Nostrills;</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 2.22.</note> for wherein is he to be accounted of?<note place="margin">
+                     <hi>Pſal.</hi> 146.3, 4.</note> And <hi>Truſt not in Princes, nor in any Son of Man;</hi> for when <hi>his breath goeth forth, he returneth to his Earth, in that very day his thoughts periſh: Surely all Fleſh is Graſs, yea, the goodlineſs thereof, as the Flower of the Field.</hi>
+               </p>
+               <p n="4">4. The next <hi>Impaled Shield,</hi> tells me he was a <hi>Son,</hi> and thoſe unwelcome <hi>Labells</hi> hint immature death; nay an <hi>Onely One,</hi> yea an <hi>Onely Begotten</hi> One; (griefs in a cluſter,) <hi>huic illae lacrymae,</hi> this gives the killing Accent.</p>
+               <pb n="36" facs="tcp:41198:24"/>
+               <p>What the good Woman feared in a <hi>Parable,</hi> is here fullfilled <hi>without one,</hi>
+                  <note place="margin">1 <hi>Sam.</hi> 14.7.</note> and his perplexed Mo<g ref="char:EOLhyphen"/>ther, may with anguiſh of diſtreſs cry out, <hi>My coal that was left is quenched, and to my Husband is not left Name or Remainder upon the Earth:</hi> This is ſo deep a <hi>Key,</hi> no <hi>Baſe</hi> can touch it, but the hoarſeſt <hi>ſobbs</hi> and <hi>groans;</hi> A <hi>Note</hi> ſo ſuperlatively above <hi>Ela,</hi> no <hi>female trebble</hi>'s ſhrill enough to <hi>Reach</hi> it, and keep <hi>Tune;</hi> 'Twill <hi>crack</hi> our ſorrows into <hi>Schreeks</hi> and <hi>Squeling,</hi> but to venture at it; and would be ſome Apology, if <hi>Rachell</hi> like, his deareſt Mother, ſhould be ob<g ref="char:EOLhyphen"/>ſtinate in ſorrow, and <hi>refuſe to be comforted.</hi>
+               </p>
+               <p n="5">
+                  <note place="margin">Fugientis naturae in ſucceſſore pig<g ref="char:EOLhyphen"/>nus remanet, &amp; extinquentis jam luminis lucerna ex parte accenſa.</note>5. Childleſs too himſelf; more ſorrow ſtill, had he but left an Heir, and lived a vicarious life; liv'd in another, though he had dyed himſelf; left but an Hoſtage in his ſteed; rack't up one ſpark to kindle more, we could have ſpared him better; had he Knit on an end,<note place="margin">Nodoſa aeterni<g ref="char:EOLhyphen"/>tas ſucceſſio li<g ref="char:EOLhyphen"/>berorum. Aetatis incrementum.</note> to lengthen out his Line, and fixt one Linck to keep the Chain intire, the Wound had been Curable, and the breach more Repara<g ref="char:EOLhyphen"/>ble.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Jer.</hi> 15.18.</note>But now the <hi>pain is perpetual,</hi> therefore <hi>will we Wayle,</hi>
+                  <note place="margin">
+                     <hi>Mich.</hi> 1.8.</note> 
+                  <hi>and Howle, and go strip't and naked, and make a Wayling like the Dragons, and Mourning as the Owls.</hi>
+               </p>
+               <p>But Laſtly, becauſe no <hi>Sorrows</hi> are <hi>Superlative,</hi> which want the <hi>Empheſis</hi> of <hi>Widow</hi> (that ours may be more then ſuch) <hi>that</hi>'s here with full <hi>Advantage.</hi> Though his Right Honourable <hi>Mother</hi> be not ſo; yet is his <hi>Sweet,</hi> and <hi>Dearest Lady ſuch,</hi> with ſo much
+<pb n="37" facs="tcp:41198:24"/> forer agravation, as her tender years are leſs accu<g ref="char:EOLhyphen"/>ſtom'd to endure it: and be diſtreſſed, with the dole<g ref="char:EOLhyphen"/>full <hi>Epithite</hi> of <hi>Dowager,</hi> ſo immaturely. So <hi>ſoon,</hi> ſo <hi>ſuddainly,</hi> is ſhe bereaved of him, as if ſhe had onely had him to be made <hi>miſerable</hi> by <hi>looſing</hi> of him: and in him ſuch an <hi>Honour,</hi> and <hi>Happineſs,</hi> as his <hi>High Ranck,</hi> and <hi>Higher Sweetneſs, Kindneſs, Nobleneſs</hi> of mind, poſſeſt her of in <hi>Him.</hi> The ſmart and ſorrows of our loſſes, have no true Stan<g ref="char:EOLhyphen"/>dard, but the content and joy, we had in their frui<g ref="char:EOLhyphen"/>tion.</p>
+               <p>But I forget <hi>my Self</hi> and <hi>You,</hi> 'tis <hi>Cruelty</hi> to <hi>gall</hi> your <hi>bleeding</hi> hearts <hi>afreſh;</hi> To <hi>Rake</hi> in your <hi>wounds,</hi> and longer <hi>vex</hi> thoſe <hi>eyes,</hi> are half <hi>wept</hi> out already; and <hi>draw</hi> more ſluces, when all the <hi>Banks</hi> run over; <hi>Claudite jam rivos;</hi> what I have <hi>drawn</hi> already, was not to <hi>hurt,</hi> but <hi>help</hi> you, to give your ſorrows <hi>vent,</hi> leaſt they ſhould <hi>fester</hi> inward.</p>
+               <q>
+                  <l>Tears help to ſwage our griefe,<note place="margin">Sedatur lacry<g ref="char:EOLhyphen"/>mis, egeriturque dolor, <hi>Ovid.</hi>
+                     </note>
+                  </l>
+                  <l>And yield us ſome reliefe.</l>
+               </q>
+               <p>Now let me haſten to refreſh you, and reaſſume, the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ht ſide of my Text; <hi>Weep not;</hi> at leaſt, <hi>No more,</hi> when we have wept <hi>enough</hi> already: Not that he can <hi>ſoon,</hi> or <hi>eaſily,</hi> be <hi>ſufficiently</hi> bewayled; but we muſt not ſhed <hi>ſo many</hi> tears as he <hi>deſerves,</hi> leaſt we ſhed abundance <hi>more</hi> then he <hi>needs,</hi> or we can ſpare, or God allowes.</p>
+               <pb n="38" facs="tcp:41198:25"/>
+               <p>
+                  <note place="margin">Nihil difficilius quam magno do<g ref="char:EOLhyphen"/>lori paria verba reperire. <hi>Senec.</hi>
+                  </note>And though the task, be hard to counterpoize your ſorrowes, yet Accept theſe <hi>Anodines,</hi> which may <hi>diſſolve,</hi> and <hi>mollifie</hi> the tumour, <hi>aſſwage</hi> the ſmart, and <hi>eaſe</hi> the throbbing; they are <hi>Collyria</hi> fitted for ſuch <hi>eyes.</hi> And let me ſpeak as if more of the moſt-concern'd were preſent;<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> for if any thing be ſpoken <hi>worth</hi> the carriage, you that are <hi>preſent,</hi> may tranſ<g ref="char:EOLhyphen"/>mit it, to the <hi>abſent;</hi> As <hi>Gregory Nyſsen</hi> ſpoke in his Funeral Oration for Young <hi>Pulcheria.</hi>
+               </p>
+               <p>But becauſe <hi>they</hi> muſt <hi>digg deep,</hi> who will <hi>build ſure;</hi> and begin <hi>below,</hi> who would <hi>aſcend.</hi> I will lay the <hi>Firſt</hi> Stone under <hi>ground;</hi> within the <hi>Earth</hi> of his <hi>Mortality;</hi> and lead you <hi>gradually</hi> to <hi>higher</hi> Comforts.</p>
+               <p>
+                  <note place="margin">Utrum stultius, mortalitatis le<g ref="char:EOLhyphen"/>gem ignorare, an recuſare?</note>
+                  <hi>Weep not;</hi> for he was Mortall, he muſt have died ere long: What wiſe man ſheds his tears, becauſe his <hi>Roſes ſhed</hi> their <hi>leaves?</hi> He came into the World under this Law;<note place="margin">Seneca.</note> 
+                  <hi>Nulli contigit impune naſci;</hi> No man is born on cheaper terms, then a neceſſity of dy<g ref="char:EOLhyphen"/>ing. He anſwered as became a Gallant man; who entertain'd the Meſſage of his Sons diſceaſe, with, <hi>Ego cum genui tum moriturum ſcivi;</hi> I knew when I begat him, he muſt dye; <hi>huic rei ſuſtuli.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 'tis but a <hi>little,</hi>
+                  <note place="margin">Maximum ſola<g ref="char:EOLhyphen"/>tium eſt cogitare id ſibi accidiſſe, qu d ante ſe paſſi ſunt omnes, om<g ref="char:EOLhyphen"/>neſqu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> paſſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>i &amp; ideo mihi videtur rerum natura quod graviſſi<g ref="char:EOLhyphen"/>mum fecit, commune feciſſe, ut crudelitatem fati conſolaretur aequalitas. <hi>Sen.</hi> ad <hi>Polyſ.</hi>
+                  </note> 
+                  <hi>little</hi> ſooner that <hi>he's</hi> gone. A few more <hi>changes</hi> of the <hi>Night</hi> and <hi>Day,</hi> and <hi>fewer</hi> of the <hi>Summer</hi> and <hi>Winter,</hi> would have brought <hi>him,</hi> and will bring <hi>us,</hi> where we ſhall <hi>change</hi> no more. We <hi>all</hi> muſt follow in the <hi>Order</hi> ſet us; had you a
+<pb n="39" facs="tcp:41198:25"/> 
+                  <hi>View,</hi> (larger then that which <hi>Xerxes</hi>) took, of all <hi>Man-kind</hi> at once; You might conclude with him, not <hi>one</hi> of them ſhould be <hi>alive,</hi> within an <hi>hundred</hi> years. Fate's <hi>impartiality,</hi> makes ſome amends, for it's <hi>Severity.</hi> Yea, the <hi>end</hi> of <hi>all</hi> things ſeems to haſten, and not to be at ſuch a <hi>diſtance,</hi> as ſecure <hi>Atheists.</hi> would fain <hi>perſwade</hi> themſelves.</p>
+               <p>
+                  <hi>Weep not;</hi> he <hi>dyed</hi> not in a <hi>Forreign</hi> Land,<note place="margin">Ubi non licuerit matri ultima fi<g ref="char:EOLhyphen"/>lii oſcula gra<g ref="char:EOLhyphen"/>tumque entremi ſermonem oris. haurire. <hi>Sen. ad Martiam.</hi>
+                  </note> at a <hi>neglected</hi> diſtance (the Seas return'd him ſafe;) But in a <hi>Mothers Boſome,</hi> where <hi>ſhe</hi> both <hi>might,</hi> and <hi>did,</hi> aſſiſt his <hi>Soul</hi> and <hi>Body</hi> with the moſt pious tender<g ref="char:EOLhyphen"/>neſs; and was her own witneſs, with what <hi>faithfull<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Care, Chaplain, Phyſitians, Nurſes,</hi> all <hi>Atten<g ref="char:EOLhyphen"/>dants,</hi> performed towards him.</p>
+               <p>
+                  <hi>Weep not;</hi> He dyed not <hi>ſuddenly,</hi> by a <hi>ſurprize,</hi> or <hi>ambuſhment</hi> of <hi>Death;</hi> which grants no liberty to <hi>trim a Lamp.</hi> He <hi>dyed</hi> not in a <hi>Broyle</hi> or <hi>Duell;</hi>
+                  <note place="margin">
+                     <hi>Mat.</hi> 25.7.</note> he <hi>dyed</hi> not <hi>Flagrante Crimine,</hi> in any <hi>Notorious</hi> Sin, or with ſymptomes of <hi>unuſuall Vengeance; but in the way of all the Earth, the common death of all Men;</hi>
+                  <note place="margin">
+                     <hi>Numb.</hi> 16.29. <hi>Num.</hi> 27.3.</note> Et ſuâ &amp; ſiccâ morte; <hi>In his own ſin;</hi> as <hi>Zelophehad</hi>'s Daughters, ſpake of their Father, in oppoſition to <hi>dying</hi> for any <hi>ſignall provocation.</hi>
+               </p>
+               <p>
+                  <hi>Weep not;</hi> He's gone <hi>unſoyled,</hi>
+                  <note place="margin">Redditur illi ae<g ref="char:EOLhyphen"/>quale teſtimoni<g ref="char:EOLhyphen"/>um omaiam ho<g ref="char:EOLhyphen"/>minum, deſide<g ref="char:EOLhyphen"/>ratur in tuum honorem lauda<g ref="char:EOLhyphen"/>tur in ſuum. <hi>Sene. ad Mort.</hi>
+                  </note> free from reproach<g ref="char:EOLhyphen"/>full <hi>blots</hi> of <hi>Scandalous</hi> Enormities, and needs no tears to <hi>rinſh</hi> him. He did not out-live a good Re<g ref="char:EOLhyphen"/>port, but hath left a <hi>Memory</hi> behind him, <hi>Clean,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nstained:</hi> a <hi>Lovely Shaddow</hi> of his <hi>Lovely Perſon,</hi> and his <hi>Fairer Mind. His Part</hi> was <hi>Acted</hi> well, and
+<pb n="40" facs="tcp:41198:26"/> He's gone off the <hi>Stage,</hi> as Great <hi>Augustus Caeſar</hi> thought he did; and may with him require your <hi>Plaudite.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>2</hi> Kings <hi>22.20.</hi> In hoc tam pro<g ref="char:EOLhyphen"/>celloſo &amp; in om<g ref="char:EOLhyphen"/>nes tempeſtates ex poſito mari, navigantibus, nullus portu. ni<g ref="char:EOLhyphen"/>ſi mortis eſt. <hi>Seneca.</hi>
+                  </note>
+                  <hi>He's</hi> come into his <hi>Grave in Peace,</hi> which was the <hi>Great</hi> Promiſe to Gods <hi>Friends</hi> of Old.</p>
+               <p>He hath <hi>eſcap't</hi> the <hi>storms,</hi> and is Arrived in the <hi>Port</hi> with <hi>ſafty.</hi> He's lay'd to <hi>rest</hi> with <hi>Honour,</hi> and his <hi>
+                     <g ref="char:V">Ʋ</g>nstain'd</hi> Aſhes, are <hi>ſhrined</hi> in immortall <hi>
+                     <g ref="char:V">Ʋ</g>rns;</hi> whoſe <hi>Gold</hi> no <hi>rust</hi> can <hi>cancker,</hi> and which will <hi>Try</hi> and <hi>Vex,</hi> the teeth of <hi>Time</hi> it ſelf, to <hi>injure;</hi> and the moſt <hi>ſpitefull</hi> Malice, dares nor <hi>attempt,</hi> once to <hi>beſmear</hi> his <hi>Marble.</hi>
+               </p>
+               <p>
+                  <hi>Weep not;</hi> He's taken from an <hi>Evil</hi> World, which is very <hi>full</hi> of <hi>ſin,</hi> and therefore cannot be <hi>void</hi> of <hi>ſorrow; Evaſit omnia vitae incommoda.</hi> Though he hath left ſome <hi>good,</hi>
+                  <note place="margin">Quis divinat an mors inviderit, an conſulucrit?</note> he hath eſcap't more <hi>evills;</hi> and Death did <hi>conſult</hi> his <hi>Eaſe,</hi> and <hi>Safety,</hi> more then <hi>Envy</hi> his <hi>Felicity:</hi> With the <hi>wings</hi> of a <hi>Dove</hi> he is <hi>flown</hi> away,<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Nyff.</note> and is, out of the <hi>reach</hi> both of <hi>Tempta<g ref="char:EOLhyphen"/>tion</hi> and <hi>Trouble,</hi> and ſhall no more <hi>offend</hi> a <hi>Good</hi> God; nor be <hi>offended</hi> by <hi>bad</hi> men. He is <hi>taken</hi> from the <hi>Evil</hi> to come, and ſhall not <hi>hear</hi> or <hi>ſee,</hi> what may make our <hi>hearts</hi> to <hi>ake,</hi> and our <hi>Eares</hi> to <hi>Tingle,</hi> to hear the Relation of; <hi>Si bene computes plus illi re<g ref="char:EOLhyphen"/>miſſum, quam ereptum;</hi>
+                  <note place="margin">Non miſer quod amiſit ſed Bea<g ref="char:EOLhyphen"/>tus quod non de<g ref="char:EOLhyphen"/>ſiderat.</note> If you reckon <hi>right,</hi> you'l find him <hi>gainer</hi> by his loſs; 'Tis <hi>better</hi> not to <hi>need,</hi> then to <hi>injoy</hi> whatever he hath <hi>left;</hi> to be <hi>above</hi> them, then to <hi>have</hi> them.</p>
+               <pb n="41" facs="tcp:41198:26"/>
+               <p>
+                  <hi>Weep not;</hi> for he is not <hi>Extinguiſht</hi> but <hi>Removed; Non amiſſus, ſed praemiſſus;</hi> He <hi>ceaſeth</hi> not to <hi>be,</hi>
+                  <note place="margin">Ciprian:</note> but to be <hi>here.</hi> The <hi>Houſe</hi> indeed's <hi>pull'd</hi> down, in or<g ref="char:EOLhyphen"/>der to <hi>repairing,</hi> and rayſing up, more <hi>glorious</hi> and <hi>ſplendid.</hi> But the <hi>Inhabitant</hi> was neither <hi>cruſhed</hi> with its <hi>Ruines,</hi> nor <hi>ſoyled</hi> with its <hi>dust:</hi> The <hi>Bird,</hi> the <hi>Angell flew</hi> away, at the <hi>disturbance</hi> of the <hi>Nest;</hi> And the <hi>Immortall</hi> Man, made his <hi>eſcape,</hi> when Death <hi>unlock't</hi> the <hi>Priſon</hi> Doors. <hi>The Spirit is return'd to God.</hi>
+               </p>
+               <p>'Tis a good Obſervation, one of the Ancients makes upon that paſſage of God's rewarding <hi>Job. Chap.</hi> 42.10. <hi>The Lord gave</hi> Job <hi>twice as m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch as he had before;</hi> or, as 'tis in the Hebrew, <hi>Ad<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed all that had been unto</hi> Job, <hi>unto the double;</hi> for h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had <hi>Fourteen Thouſand Sheep,</hi> for his <hi>Seven Thouſand</hi> and <hi>Six Thouſand Camells,</hi> for his <hi>Three Thouſand;</hi>
+                  <note place="margin">
+                     <hi>Job.</hi> 1.3. with 42.12.</note> and a <hi>Thouſand Yoake</hi> of <hi>Oxen;</hi> and a <hi>Thouſand Shee-Aſſes;</hi> for <hi>Five Hundred</hi> of Each. But He gave him but Seven Sons, and Three Daughters, the even Num<g ref="char:EOLhyphen"/>ber which he had before;<note place="margin">
+                     <hi>Greg. Nyſſ.</hi> O<g ref="char:EOLhyphen"/>ratione fu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb, pro pulcheria in fine,</note> Compare <hi>Chap.</hi> 1, 2. with <hi>Chap.</hi> 42.13. And he gives the reaſon of it; becauſe, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. — He gave him <hi>twice</hi> as many <hi>Cattle,</hi> as he had before; but only the <hi>Even Number</hi> of his <hi>Children,</hi> becauſe they <hi>periſh't</hi> not, (as did the Cattle) though they <hi>dyed;</hi> and ſo the <hi>Equal</hi> Num<g ref="char:EOLhyphen"/>ber prov'd <hi>Double</hi> in <hi>Effect;</hi> and <hi>Job</hi> had <hi>twice Ten</hi> Children, <hi>half</hi> in <hi>another</hi> World, and <hi>half</hi> in <hi>this,</hi> at
+<pb n="42" facs="tcp:41198:27"/> the <hi>ſame</hi> time; though in ſo diſtant place. I need not heap <hi>Arguments,</hi> to prove the Souls <hi>Existence,</hi> after Death;<note place="margin">St. <hi>Luke</hi> 12.4. St. <hi>Mat.</hi> 10.28.22.32.</note> when <hi>Christ</hi> hath ſo plainly <hi>told</hi> you, <hi>It cannot be killed.</hi> And that He who is the <hi>God</hi> of the <hi>Living,</hi> not of the <hi>Dead,</hi> is ſtill the <hi>God of Abraham, Iſaac,</hi> and <hi>Jacob;</hi> who therefore do <hi>still</hi> live.</p>
+               <p>
+                  <note place="margin">1 <hi>King.</hi> 17.21.</note>The Prophet pray'd, that the <hi>Childs Soul</hi> might <hi>return again into him,</hi> not a new one be made for him; And St. <hi>Paul,</hi> ſpeaks moſt expreſly, that <hi>when we are abſent from the body, we ſhall be preſent with the Lord,</hi> 2 <hi>Cor.</hi> 5.8. and therefore <hi>deſires to be diſſol<g ref="char:EOLhyphen"/>ved,</hi> that he may <hi>be with Christ, Phil.</hi> 1.23. Which were a moſt abſur'd Argument, if the Soul ſhould bear the Body company in dying. And <hi>the Souls under the Altar</hi> call for vengeance againſt them <hi>who ſhed their blood.</hi>
+                  <note place="margin">De conſolatione ad Marti. Cap. <hi>24.</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>Seneca</hi> could tell diſconſolate <hi>Mercia;</hi> Imago dun<g ref="char:EOLhyphen"/>taxat Filii tui periit, &amp; Effigies non ſimilima, ipſe quidem aeternus, melioriſque nunc Status eſt; deſpolia<g ref="char:EOLhyphen"/>tus oneribus alienis, &amp; ſibi relictus. <hi>The Image only of thy Son is periſhed, and the Picture (which was not very like him neither) is defac'd; But he himſelf is Eter<g ref="char:EOLhyphen"/>nall, in a better ſtate eas'd of his uneaſie burden, and now at freedom to injoy himſelf.</hi>
+               </p>
+               <p>
+                  <note place="margin" type="runSum">Arguments for the Souls imor<g ref="char:EOLhyphen"/>tality and Ex<g ref="char:EOLhyphen"/>iſtence after death.</note>And if I may ſuggeſt an <hi>Argument</hi> or Two: It would be a <hi>Chaſma</hi> and <hi>Hiatus</hi> in <hi>Nature,</hi> if <hi>ſome</hi> Crea<g ref="char:EOLhyphen"/>tures being wholly <hi>Immortall, others</hi> wholly <hi>mortall;</hi> there were not <hi>one</hi> made up of <hi>both, Fibula utriuſque mundi,</hi> the <hi>Button</hi> and the <hi>Buckle</hi> of both Worlds,
+<pb n="43" facs="tcp:41198:27"/> which knits and claſps them into one; <hi>Connubium vi<g ref="char:EOLhyphen"/>ſibilis &amp; inviſibilis;</hi> The <hi>Beast</hi> and <hi>Angell mixt</hi> into <hi>one,</hi> which makes a <hi>medium</hi> betwixt <hi>both,</hi> and <hi>contain<g ref="char:EOLhyphen"/>eth both.</hi>
+               </p>
+               <p>Doth the <hi>Image</hi> of the <hi>King Perpetuate</hi> his <hi>Coyne,</hi> and render it <hi>Treaſonable</hi> to <hi>Melt</hi> it down? And ſhall not <hi>Gods Image,</hi> much more <hi>preſerve,</hi> what that is <hi>stamp't</hi> upon, from periſhing?</p>
+               <p>It acts <hi>without</hi> the body, and <hi>above</hi> it, <hi>here,</hi> that is an <hi>Earnest</hi> it can <hi>be</hi> without it <hi>afterwards;</hi> It is a <hi>Spirit, conſiſts</hi> not of <hi>Contrarie's,</hi> of <hi>Corruptible,</hi> of <hi>Self-destoying</hi> Principles; therefore abides for <hi>Ever.</hi> Hath <hi>Vast</hi> and <hi>Everlasting Expectations;</hi> which Na<g ref="char:EOLhyphen"/>ture would <hi>never</hi> have <hi>imprest,</hi> if they had been in <hi>vaine:</hi> Laſtly, <hi>conſent</hi> of <hi>Nations Seals</hi> to this <hi>Truth: Theſe,</hi> if neither <hi>most</hi> nor <hi>best,</hi> are ſuch as lay up<g ref="char:EOLhyphen"/>permoſt amongſt my ſudden thoughts, and may ſuf<g ref="char:EOLhyphen"/>fice.</p>
+               <p>
+                  <hi>Weep not;</hi> for <hi>He ſhall Riſe again;</hi>
+                  <note place="margin">Non ſolum re<g ref="char:EOLhyphen"/>preſentata, ſed expectata reſur<g ref="char:EOLhyphen"/>rectio, luctum nobis minuere debet ob mor<g ref="char:EOLhyphen"/>tuos, <hi>Grotius.</hi>
+                  </note> He ſhall not <hi>continue Death</hi>'s Everlaſting <hi>Captive,</hi> or the <hi>Graves E<g ref="char:EOLhyphen"/>ternall</hi> Priſoner: Thy <hi>Husband, Son</hi> and <hi>Friend</hi> is but <hi>aſleep,</hi> he ſhall <hi>do well,</hi> and <hi>wake.</hi> The Grave hath been <hi>forc't</hi> and <hi>broken up,</hi> and our True <hi>Sampſon,</hi> hath carried away, the <hi>Gates,</hi> the <hi>Bars,</hi> and <hi>Posts,</hi> of this <hi>Philistian Gaza. O Death where is thy sting? O Grave where is thy Victory?</hi> And when that glorious Morn, draws back the <hi>Curtains,</hi> and <hi>diſpells</hi> the Night, then ſhall he <hi>wake</hi> Refreſh't; and <hi>Riſe,</hi> and <hi>Dreſs</hi> himſelf, and be <hi>re-married</hi> to his Fleſh.</p>
+               <pb n="44" facs="tcp:41198:28"/>
+               <p>Each <hi>Mornings Sun,</hi> each <hi>Summers Verdure</hi> is a <hi>loud</hi> inſtance, and <hi>preſage</hi> of this; both <hi>Testaments,</hi> the <hi>Old,</hi> and <hi>New</hi> confirm it, as well in <hi>Examples</hi> as <hi>Pre<g ref="char:EOLhyphen"/>dictions:</hi> Chriſt is riſen as a <hi>Man,</hi> to ſhew 'tis <hi>poſ<g ref="char:EOLhyphen"/>ſible,</hi> as an <hi>head</hi> to aſſure 'tis <hi>certain;</hi> And God is <hi>Juſt,</hi> therefore the dead muſt Riſe; that what hath been ſo much a <hi>amiſs</hi> in <hi>this Life,</hi> may be <hi>amended,</hi> and better ordered in the <hi>Next;</hi> where it ſhall be, <hi>Bonis Benè, Malis, Malè.</hi>
+               </p>
+               <p>They that need more to <hi>ſatisfie</hi> their <hi>reaſon,</hi> or <hi>con<g ref="char:EOLhyphen"/>firm</hi> their <hi>Faith;</hi> let them conſult the 1 <hi>Cor.</hi> 15. <hi>Chap.</hi> at their leiſure, where they ſhall find good meaſure, <hi>Prest,</hi> and <hi>Heapt,</hi> and <hi>Running over.</hi>
+               </p>
+               <p>
+                  <note place="margin">Illud te non mi<g ref="char:EOLhyphen"/>nimum adjurerit ſi cogitaveris nihil profiturum dolorem tuum, nec illi nec tibi: percamus lachri<g ref="char:EOLhyphen"/>mis nihil profici<g ref="char:EOLhyphen"/>entibus, <hi>Sen.</hi>
+                  </note>
+                  <hi>Weep not;</hi> Your ſorrows now are fruitleſs; <hi>where<g ref="char:EOLhyphen"/>fore ſhould I faſt, Now he is dead, can I bring him back again?</hi> Was the wiſe Argument of Holy <hi>David,</hi> 2 <hi>Sam.</hi> 12.23. Could you weep <hi>Aquafortis,</hi> your tears would not diſſolve the chains of Death. <hi>Si fletibus fata vincuntur eat omnis inter luctus dies, ſed ſi nullis planctibus defuncta revocantur, deſinat dolor qui perit;</hi> Was the grave Council of the <hi>Sage Moralist<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> let <hi>Reaſon</hi> maſter <hi>Paſſion,</hi> and ſpare thoſe <hi>Tears</hi> you know are <hi>Fruitleſs,</hi> and but ſpent in vain.</p>
+               <p>
+                  <hi>Weep not;</hi> Tears may <hi>hurt</hi> you, though they bring him no <hi>help,</hi>
+                  <note place="margin">2 <hi>Cor.</hi> 7.10.</note> and <hi>kill</hi> your ſelves, though they'l not <hi>quicken</hi> him; <hi>The ſorrow of the World worketh Death; Facilius nos illi dolor adjiciet, quam illum nobis reducet; Too many</hi> tears <hi>reproach</hi> you <hi>both, Him,</hi> as if he <hi>need<g ref="char:EOLhyphen"/>ed</hi> them, and dyed like <hi>Abſolom,</hi> whoſe <hi>Body</hi> onely
+<pb n="45" facs="tcp:41198:28"/> he <hi>reſembled,</hi> not his <hi>Manners, Mind,</hi> or <hi>End. Your ſelves,</hi> for their <hi>Exceſs</hi> no leſs upbraids your <hi>Manhood,</hi> then their <hi>defect</hi> would have <hi>reproached</hi> your <hi>Huma<g ref="char:EOLhyphen"/>nity; Non ſentire dolorem non est hominis non ferre, non est viri:</hi> Yea, your <hi>Patience, Faith</hi> and <hi>Chriſtianity,</hi> as if you ſorrowed <hi>like thoſe who have no hope.</hi>
+               </p>
+               <p>
+                  <hi>Weep not;</hi>
+                  <note place="margin">A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hac te infa<g ref="char:EOLhyphen"/>mia vindica, ne videatur plus a<g ref="char:EOLhyphen"/>pud te valere u<g ref="char:EOLhyphen"/>nus dolor, quam tam multa Sola<g ref="char:EOLhyphen"/>tia.</note> Leaſt you <hi>provoke</hi> the Lord to <hi>Multi<g ref="char:EOLhyphen"/>ply</hi> his <hi>ſtripes;</hi> as <hi>Children</hi> often ſuffer more for <hi>ſul<g ref="char:EOLhyphen"/>lingneſs,</hi> and <hi>ſobbing,</hi> then for the <hi>first</hi> occaſion of <hi>Correction;</hi> take heed you forfeit not the mercies which are left.</p>
+               <p>
+                  <hi>Weep not;</hi> For 'tis the <hi>Work</hi> of God.<note place="margin">
+                     <hi>Lev.</hi> 10.3. <hi>Pſal.</hi> 39.9.</note> 
+                  <hi>Aaron held his peace,</hi> in a caſe more difficult; and <hi>David</hi> was <hi>dumb with ſilence, becauſe God did it;</hi>
+                  <note place="margin">1 <hi>Sam.</hi> 3.13.</note> and <hi>Good Eli thus</hi> ſubmitted, <hi>'Tis the Lord, let him do what ſeemeth him good.</hi> He that hath Ruled the World now near Six Thouſand Years, and never yet committed over ſight or errour, <hi>guided</hi> this <hi>blow.</hi> He <hi>call'd</hi> him back,<note place="margin">Iniquus eſt qui muneris ſui ar<g ref="char:EOLhyphen"/>bitrium danti non relinquit, avidus qui non lucri loco habet quod accepit, ſed damni quod red<g ref="char:EOLhyphen"/>didit Ingratus qui injuriam vo<g ref="char:EOLhyphen"/>cat finem volup<g ref="char:EOLhyphen"/>tatis. <hi>Senec.</hi>
+                  </note> who <hi>gave</hi> him, and had more <hi>Right</hi> and <hi>Title</hi> to him, then a <hi>Wife</hi> or <hi>Mother;</hi> and they too ungratefully forget God, and themſelves, who reckon it an <hi>Injury</hi> for him to take his <hi>Own.</hi> Gods abſolute, and Indiſ<g ref="char:EOLhyphen"/>putable <hi>Sovereignty,</hi> his Infallible, and un-erring <hi>Wiſ<g ref="char:EOLhyphen"/>dome,</hi> and his conſtant and faithfull <hi>Goodneſs,</hi> ſhould at leaſt make us lay our <hi>hand</hi> upon our <hi>heart,</hi> and <hi>mouth;</hi> that we may neither <hi>ſpeak,</hi> nor <hi>think</hi> amiſs,<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Nyſſ.</note> of what he doth; Knowing that <hi>he</hi> doth all things
+<pb n="46" facs="tcp:41198:29"/> 
+                  <hi>well:</hi> But rather ſay with Holy <hi>Job, The Lord giveth, and the Lord hath taken away,</hi> as it pleaſeth the Lord, ſo come things to paſs, <hi>bleſſed be the Name of the Lord.</hi>
+               </p>
+               <p>But becauſe <hi>ſorrow</hi> is very <hi>querulous, witty</hi> to afflict it ſelf, and <hi>pregnant</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Arguments to <hi>aggravate</hi> its <hi>burdens;</hi> And he ſaith little to the purpoſe, (talk he never ſo much) who takes not the Mourners <hi>Tears</hi> and <hi>Sighs,</hi> from their own <hi>Eyes</hi> and <hi>Lips,</hi> and mea<g ref="char:EOLhyphen"/>ſures out returns <hi>proportionable;</hi> Let us ſuppoſe we heard them (as we have heard them) thus <hi>complaining.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>
+                  </label> Firſt, that <hi>he Dyed Young,</hi> in the very <hi>Spring</hi> and <hi>Flower</hi> of his <hi>Age,</hi> when all their Comforts were expected from him; and theſe <hi>budding pregnant</hi> hopes, are <hi>nip't</hi> and <hi>blasted,</hi> and ſuffer a ſad Abortion, <hi>Nimis cito periit &amp; immaturus;</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> I know the <hi>wound</hi> is <hi>tender,</hi> and will not bear ſuch <hi>handling,</hi> therefore I ſhall not Anſwer ſo <hi>roughly,</hi> as to ſay,<note place="margin">Optimum non niſci, proximum quam citiſſime mori.</note> the <hi>ſooner</hi> he dyed, the <hi>better;</hi> becauſe the <hi>Firſt best</hi> is not to be born, the <hi>next best</hi> after that, is to dye as ſoon as may be: But I will refer you to what the Authour df the Book of Wiſdome ſpeaks concerning <hi>Enoch. Honorable Age is not that which ſtands in length of time,</hi>
+                  <note place="margin">
+                     <hi>Chap.</hi> 4.8.</note> 
+                  <hi>nor that is meaſured by number of years;</hi>
+                  <note place="margin">Quicquid, ad ſummum perve<g ref="char:EOLhyphen"/>nit ad exitum properat. Eripit ſe, auſertque ex oculis perfecta virtus. Nec ulti<g ref="char:EOLhyphen"/>mum tempus ex<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctant, quae in privio maturaerunt. Indicium imminentis exitis Maturitas.</note> 
+                  <hi>but Wiſdome is the gray hair unto men, and an unſpotted life is Old Age. Speedily was he taken away, leaſt wickedneſs ſhould alter his underſtanding, or deceit beguile his ſoul: He being made perfect in a ſhort time, ful<g ref="char:EOLhyphen"/>fill'd a long time; for his ſoul pleas'd the Lord, therefore
+<pb n="47" facs="tcp:41198:29"/> haſted he to take him away, from amongſt the Wicked;</hi> and admit this be not the true <hi>Solomon,</hi> yet <hi>He</hi> hath told us,<note place="margin">
+                     <hi>Eccl.</hi> 7.1.4.1.</note> 
+                  <hi>The day of Death is better then the day of ones Birth;</hi> and again, <hi>I praiſed the Dead which are already dead, more then the Living which are yet alive.</hi>
+               </p>
+               <p>He dyes not <hi>too ſoon,</hi> who dyes in the <hi>time</hi> that God hath <hi>ſet;</hi> and ſo dyed he, and this ſhould ſtay your hearts.<note place="margin">
+                     <hi>Job.</hi> 7.1.14.5.</note> 
+                  <hi>Is there not an appointed time to man upon the Earth? his days are determin'd, the Number of his Months is with thee,</hi> thou haſt appointed <hi>his bounds which he cannot paſs;</hi> and the Phyloſopher could ſee this; Nemo nimis cito moritur, qui victurus,<note place="margin">Soluitur quod culque promiſ<g ref="char:EOLhyphen"/>ſum est, Habe<g ref="char:EOLhyphen"/>bit quiſque quae<g ref="char:EOLhyphen"/>tum diis Pri<g ref="char:EOLhyphen"/>mus aſcripſit, <hi>Ser,</hi>
+                  </note> diutius quam vixit, non fuit, ſixus eſt cuique terminus: manebit ſemper ubi poſitus eſt: <hi>No man dyes too ſoon, becauſe no man hath leſs of life, then was deſign'd, and promiſt from the firſt.</hi>
+               </p>
+               <p>And becauſe <hi>Examples</hi> of the like ſufferings, <hi>ſof<g ref="char:EOLhyphen"/>ten</hi> thoſe <hi>stroaks,</hi> which are moſt <hi>pungent,</hi> when they are conceiv'd <hi>leaſt common,</hi> and Eſteemed <hi>Singular.</hi> Take theſe few <hi>Inſtances</hi> in a Caſe, where multitude hath made our choyce more difficult.</p>
+               <p>Thus dyed <hi>Bleſt Abell,</hi> the <hi>Firſt</hi> that ever <hi>dyed,</hi> and <hi>Conſecrated Early Death;</hi> Thus the <hi>Good Son</hi> of that <hi>Bad Father, Jeroboam;</hi> Thus dyed the <hi>Holy Joſiah,</hi>
+                  <note place="margin">Octavia &amp; Li<g ref="char:EOLhyphen"/>via altera ſoror, Auguſti altera uxor, amiſerunt filios juvenes, u<g ref="char:EOLhyphen"/>traque ſpe futuri principis certa. Octavia Mar<g ref="char:EOLhyphen"/>cellum, Livia Druſum.</note> like whom was none in Zeal for God; Thus dyed <hi>Marcellus,</hi> and <hi>Druſus,</hi> ſucceſſively <hi>both Heirs Ap<g ref="char:EOLhyphen"/>parent</hi> to <hi>Augustus Caeſar,</hi> and the <hi>Worlds</hi> Empire; Thus dyed ſweet <hi>Titus, Deliciae generis humani,</hi> the Darling and Delights of Man-kind; Thus dyed
+<pb n="48" facs="tcp:41198:30"/> that Glory of the <hi>Roman Caeſar; Alexander Seve<g ref="char:EOLhyphen"/>rus, Paganus Chriſtianizans;</hi> and <hi>Happy</hi> had it been for <hi>Nero</hi> had he dyed <hi>ſo,</hi> and his <hi>Quinquennium</hi> and his <hi>Life</hi> had had the ſame <hi>Period;</hi> and the <hi>kinder</hi> hand of Death had drawn a preventing <hi>Vayle,</hi> after the Glory of thoſe <hi>rare</hi> beginnings,<note place="margin">Quam multis diutius vixiſſe nocuerit?</note> to cover the <hi>Re<g ref="char:EOLhyphen"/>proach</hi> of what <hi>ſucceeded,</hi> in the <hi>Obſcurities</hi> of Ever<g ref="char:EOLhyphen"/>laſting Night.</p>
+               <p>But to come nearer home; So <hi>dyed</hi> that <hi>Miracle</hi> of <hi>Grace</hi> and <hi>Greatneſs, Edward</hi> the ſixt; So dyed <hi>Prince Henry le boon, le grand;</hi> So dyed of Later Date, the much Admired Young Lord <hi>Haſtings,</hi> and that Early <hi>Confeſſour,</hi> Son of the <hi>Royal Martyr,</hi> the thrice Illuſtrious <hi>Duke</hi> of <hi>Glocester.</hi>
+               </p>
+               <p>
+                  <hi>Sed ridiculum est mortalitatis exempla coll<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gere;</hi> and therefore I conclude with him, whoſe Example is a<g ref="char:EOLhyphen"/>bove all Paralel; So dyed our Bleſſed Saviour Jeſus Chriſt, in the very Strength and Vigour of his Age.</p>
+               <p>And notwithſtanding <hi>ſorrow,</hi> moſtly <hi>ſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ps</hi> its <hi>ears,</hi> againſt the <hi>charms</hi> of <hi>ſober reaſon:</hi> yet let me <hi>modeſtly debate</hi> the Caſe.</p>
+               <p>
+                  <note place="margin">Nihil eſt <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am fallax quam vita humana; nihil tum infidioſum: non m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rcle quiſquam acce<g ref="char:EOLhyphen"/>piſſet niſi daretur in ſcii, <hi>Sen.</hi>
+                  </note>
+                  <hi>What</hi> is the <hi>life</hi> that he hath <hi>parted</hi> with, you ſo <hi>bemoan</hi> his loſs? look back and ſee what <hi>Comforts</hi> it afforded <hi>You;</hi> What had <hi>You lost,</hi> if <hi>You</hi> had <hi>dyed</hi> as <hi>Young?</hi> would it quit <hi>cost,</hi> to live it <hi>over,</hi> if you might, <hi>again:</hi> Has the <hi>World</hi> been ſo <hi>kind</hi> a <hi>Step<g ref="char:EOLhyphen"/>dame</hi> to your <hi>Selves?</hi> Was your <hi>Apprentiſhip ſo ſweet,</hi> and <hi>gentle,</hi> you <hi>grudge</hi> ſo much his <hi>Earlier Freedom?</hi>
+                  <pb n="49" facs="tcp:41198:30"/> What is it, but a conſtant <hi>hurry,</hi> and a druging <hi>Bon<g ref="char:EOLhyphen"/>dage?</hi> A <hi>weariſom delight,</hi> and vexing <hi>vanity;</hi> A <hi>little-eaſe;</hi> a <hi>great Temptation;</hi> a <hi>ſlippery Good,</hi> which <hi>ſlideth</hi> through our fingers, and leaves nothing,<note n="†" place="margin">Quid aliud in mundo quam pugna adverſus diabolum quoti<g ref="char:EOLhyphen"/>die geritur, — cum avaritia no<g ref="char:EOLhyphen"/>bis, cum impudi<g ref="char:EOLhyphen"/>citia, cum ira, cum ambitione co<g ref="char:cmbAbbrStroke">̄</g>greſſio eſt, cum carnalibus vitiis, cum illecebris ſae<g ref="char:EOLhyphen"/>cularibus aſſidua &amp; moleſta luc<g ref="char:EOLhyphen"/>tatio eſt, <hi>Cipra.</hi>
+                  </note> but its <hi>ſlime</hi> upon them; A <hi>Glutinous</hi> and <hi>clammy Evil,</hi> which <hi>stains</hi> us with a <hi>guilt,</hi> that <hi>ſticketh</hi> faſter to us, then our <hi>Skinns.</hi> A <hi>leakie ſhip,</hi> and an <hi>infected</hi> houſe; a <hi>peeviſh</hi> neighbour, and <hi>inſulting</hi> maſter, which like to <hi>Joab,</hi>
+                  <note n="*" place="margin">2 <hi>Sam.</hi> 2.14.</note> makes our <hi>miſeries</hi> and <hi>torment,</hi> his <hi>ſport,</hi> and <hi>play;</hi> ‖ which daily keeps us <hi>floating,</hi> on the un<g ref="char:EOLhyphen"/>conſtant <hi>waves,</hi> of <hi>fears,</hi> and <hi>hopes,</hi> of <hi>grief,</hi> and <hi>anger,</hi> of <hi>fainting joyes,</hi> and <hi>ſulleneſt diſpair:</hi> Now tell me, is it not a mercy; <hi>Beneficium mortis contra tot vitae injurias habere? To lye ſtill, and to be quiet,</hi>
+                  <note place="margin">
+                     <hi>Job.</hi> 3.13, 17, 18.</note> 
+                  <hi>to ſleep, and be at reſt; to be where the Wicked ceaſe from troubling, and where the weary be at reſt; where the Priſoners reſt together, and hear not the voice of the Oppreſſour.</hi>
+               </p>
+               <p>And with the great <hi>Biſhop</hi> of <hi>Nyſſa,</hi>
+                  <note place="margin">Vide Nyſs in fu<g ref="char:EOLhyphen"/>nere pulcheriae.</note> let me de<g ref="char:EOLhyphen"/>mand yet farther,<note place="margin">—<gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—Tell me what <hi>good,</hi> and <hi>lovelineſs,</hi> thou ſeeſt in <hi>old Age,</hi> to render thee ſo <hi>fond</hi> on't? Is it a <hi>ſhrivel'd cheeke,</hi> and <hi>wrinkled brow,</hi> a <hi>toothleſs</hi> mouth, and <hi>faultring</hi> tongue, a <hi>head</hi> grown <hi>bald,</hi> and <hi>crazed;</hi> A <hi>ſtooping</hi> back, and <hi>trembling</hi> leggs, and every <hi>part</hi> made <hi>impo<g ref="char:EOLhyphen"/>tent,</hi> and all <hi>unable</hi> for their <hi>Offices?</hi> To be an <hi>Hoſ<g ref="char:EOLhyphen"/>pital</hi> of <hi>pains</hi> and <hi>aches,</hi> a <hi>bagg</hi> of <hi>Rhumes,</hi> and <hi>Flegme,</hi> the conſtant <hi>Priſoner</hi> of the <hi>Gout,</hi> or <hi>Stone:</hi> Onely the <hi>Ruines</hi> and <hi>Reproach</hi> of thy own <hi>Comlineſs,</hi> the
+<pb n="50" facs="tcp:41198:31"/> 
+                  <hi>Confutation</hi> and <hi>Revers</hi> of former <hi>
+                     <g ref="char:V">Ʋ</g>ſefulneſſe</hi> and <hi>Beauty.</hi>
+               </p>
+               <p>To be, <hi>in paenam vivax,</hi> to out-live thy <hi>Sences, Phancy, Memory,</hi> and <hi>Judgement;</hi> and to live <hi>Blind,</hi> and <hi>Deaf,</hi> and, <hi>tantum non,</hi> to <hi>Dote,</hi> to be a <hi>Burden</hi> to our ſelves, a <hi>Trouble</hi> and <hi>Temptation</hi> unto others; to be our own <hi>moving Sepulchers,</hi> and to conclude our <hi>ſtrength,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 90.10.</note> in <hi>Weakneſs, Labour, Sorrow:</hi> In a word, to have ſo <hi>long</hi> a <hi>Reckoning,</hi> and <hi>Account</hi> to make; and to go <hi>late</hi> to <hi>Heaven:</hi> as if <hi>that</hi> were only a <hi>reſerve,</hi> when we can <hi>ſtay</hi> no longer <hi>here,</hi> and not a place of <hi>Choyce.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>2</label> But <hi>He</hi> was <hi>our All,</hi> and <hi>all</hi> is <hi>gone</hi> in <hi>him,</hi> and we are <hi>undone.</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 
+                  <hi>Not ſo: All</hi> is not <hi>gone,</hi> while <hi>God</hi> and <hi>Christ</hi>'s not gone; Though <hi>He</hi> be <hi>Dead,</hi> yet the <hi>Lord Liveth,</hi> and <hi>Bleſſed be the God of our Salvation.</hi> His Life or Death had no Affinity with your Eternall State. <hi>No loſs undo's us, but the loſs of Chriſt;</hi> 'Tis a <hi>Miſerable Happineſs,</hi> which ſtands upon ſo <hi>weak</hi> a bot<g ref="char:EOLhyphen"/>tome, as the <hi>Life</hi> of <hi>Man. He</hi> that gave <hi>Him;</hi> can give <hi>another; Eve</hi> once obſerved, that <hi>God</hi> gave her <hi>another Seed</hi> in the ſtead of <hi>Abell;</hi> and <hi>Jobs</hi> ſubmiſ<g ref="char:EOLhyphen"/>ſive <hi>patience</hi> was rewarded with a <hi>Full Return. Abra<g ref="char:EOLhyphen"/>ham believed God</hi> to very good purpoſe in no unlike a caſe; <hi>With God nothing ſhall be impoſſible:</hi> A <hi>Phoe<g ref="char:EOLhyphen"/>nix</hi> may <hi>ariſe</hi> out of the <hi>Aſhes;</hi> the harder is the <hi>streight,</hi> the more is He ingaged to <hi>Relieve,</hi> who ſel<g ref="char:EOLhyphen"/>dome doth <hi>Extraordinary</hi> Things, in <hi>Ordinary</hi> Caſes; By <hi>how much</hi> our <hi>ſorrows</hi> are <hi>more</hi> ſmart and preſſing,
+<pb n="51" facs="tcp:41198:31"/> by <hi>ſo much</hi> the <hi>more</hi> we may expect his <hi>help.</hi>
+               </p>
+               <p>
+                  <hi>All</hi> thoſe we read of <hi>Rais'd</hi> by <hi>Miracle,</hi> in Scripture, were Onely Children, except <hi>Lazarus;</hi> and he was to <hi>Mary</hi> and <hi>Martha,</hi> as is an <hi>Onely-Son</hi> unto the <hi>ten<g ref="char:EOLhyphen"/>dereſt Mother:</hi> The <hi>Widows</hi> Son of <hi>Zereptha,</hi>
+                  <note place="margin">2 <hi>Kings</hi> 17.</note> rais'd by the Prophet <hi>Eliah;</hi> the <hi>Shunamites</hi> by <hi>Eliſha;</hi>
+                  <note place="margin">2 <hi>Kings</hi> 4.</note> 
+                  <hi>Jarus</hi>'s <hi>Onely Daughter,</hi> and <hi>this</hi> in my <hi>Text,</hi> who was a <hi>Widows Onely Son;</hi> and though we have <hi>no ground</hi> to hope for <hi>help</hi> in kind; yet may we in pro<g ref="char:EOLhyphen"/>portion; <hi>The Key of the Womb is in his hand;</hi> or He can give a <hi>Name</hi> and <hi>Place within his Sanctuary,</hi>
+                  <note place="margin">Iſa.</note> 
+                  <hi>better then of Sons and Daughters.</hi> He can <hi>vouchſafe</hi> to be inſtead of all <hi>Relations,</hi> who calls them <hi>Mother, Siſter,</hi>
+                  <note place="margin">St. <hi>Mark</hi> 3.35.</note> 
+                  <hi>Brother</hi> that obey his word. He can give <hi>Faith,</hi> and <hi>Patience,</hi> and a <hi>Sanctified</hi> advantage by our Tryalls. He can make a <hi>Bee-hive</hi> of the <hi>Lions Carkaſs,</hi>
+                  <note place="margin">
+                     <hi>Jud.</hi> 14.8.14.</note> and bring forth <hi>meat</hi> out of the <hi>feirceſt</hi> eater; and leave us <hi>gainers</hi> in the iſſue, by our ſoareſt <hi>loſſes:</hi> and tis like he will; <hi>Our deepeſt, and our hollowest miſeries, ſend up the loudeſt Eccho's in the Ears of Mercy;</hi> and, <hi>mag<g ref="char:EOLhyphen"/>no vulneri, majora Adhibebit remedia;</hi> He hath greater remedies, for greateſt wounds.</p>
+               <p>But now the <hi>Family</hi> is <hi>dead,</hi> and fallen with <hi>Him,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>3</label> and the <hi>Line,</hi> and <hi>Name,</hi> will <hi>fayle,</hi> by his departing <hi>Childleſs.</hi>
+               </p>
+               <p>That's <hi>more</hi> then any man can <hi>tell;</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> you had better <hi>hope</hi> the <hi>best,</hi> then <hi>apprehend</hi> the <hi>worst: He Treats himſelf unkindly, that antidates his fears.</hi> But <hi>ſup<g ref="char:EOLhyphen"/>poſe</hi> it true; then <hi>He,</hi> nor <hi>His,</hi> ſhall never <hi>taint</hi> the
+<pb n="52" facs="tcp:41198:32"/> 
+                  <hi>Blood,</hi> nor <hi>foul</hi> his <hi>Shield</hi> with any <hi>Stainant</hi> Colours, nor <hi>blot</hi> his <hi>Honourable Impreſs.</hi>
+                  <note n="*" place="margin">GARDE TA FOY.</note> Twere <hi>Endleſs,</hi> to Recount how many <hi>Noble</hi> Engliſh <hi>Families</hi> have ſeen their <hi>Period:</hi>
+                  <note place="margin">In hoc uno ſe ceteris exaequari hominibus, non injuriam, ſed jus mortalitatis ju<g ref="char:EOLhyphen"/>dicaverunt</note> 
+                  <hi>Two</hi> Right Honourable <hi>Earls,</hi> have <hi>None</hi> betwixt them <hi>Now,</hi> whoſe <hi>Patents</hi> and <hi>Creati<g ref="char:EOLhyphen"/>ons,</hi> (I have been aſſured) differ <hi>Two Hundred</hi> Years; and <hi>None</hi> Remain of thoſe, who were <hi>Crea<g ref="char:EOLhyphen"/>ted,</hi> in ſo <hi>long</hi> a ſpace; <hi>Hic habere ſe dolet liberos, hic perdidiſſe;</hi> And if <hi>Children</hi> cauſe us <hi>grief,</hi> that's leaſt <hi>uneaſie,</hi> which concerns their <hi>want.</hi>
+               </p>
+               <p>Do we <hi>rejoyce</hi> when <hi>ſingle</hi> perſons have performed <hi>handſomly?</hi> and ſhall we do <hi>leſs</hi> for <hi>Noble Families,</hi> laid up <hi>unblemiſh't</hi> in the Bed of <hi>Honour,</hi> and whoſe <hi>Names</hi> are ſufficiently <hi>Embalmed</hi> with <hi>Renown,</hi> and <hi>Virtue,</hi>
+                  <note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and Entred in the <hi>Regiſters</hi> of <hi>Fame</hi> and <hi>Hi<g ref="char:EOLhyphen"/>ſtory,</hi> to be <hi>Coevall</hi> with the <hi>Sun</hi> and <hi>Moon?</hi> and <hi>need</hi> not <hi>Succeſſion</hi> to <hi>Eternize</hi> them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>4</label> But I fear <hi>moſt,</hi> that I <hi>ſinn'd</hi> him away, and 'tis for my <hi>Tranſgreſſion,</hi> that God hath <hi>ſnatch't</hi> him hence.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This is an <hi>Holy,</hi> and a <hi>commendable</hi> fear; and not <hi>unſeaſonable</hi> at ſuch a <hi>time. Art thou come to call my ſin to Remembrance, and to ſlay my Son,</hi> ſaid the poor Widow, 1 <hi>Kings</hi> 17, 18.</p>
+               <p>I am well <hi>content</hi> you <hi>liſten</hi> to the <hi>Rod,</hi> take its <hi>A<g ref="char:EOLhyphen"/>larum's,</hi> and would promote your doing ſo, unto my power. <hi>Right hand Errours, are leaſt dangerous. We</hi> had better <hi>ten times</hi> admit that <hi>ſuppoſition,</hi> which will make us <hi>hate</hi> our <hi>ſins;</hi> then <hi>that</hi> but <hi>once,</hi> which will <hi>incline</hi> us to <hi>indulge</hi> them. While your heart is <hi>hot,</hi>
+                  <pb n="53" facs="tcp:41198:32"/> purſue the <hi>Murtherer,</hi> and be <hi>aveng'd</hi> of whatever <hi>ſin,</hi> you can <hi>ſuſpect</hi> as <hi>acceſſory</hi> to a <hi>Sons,</hi> an <hi>Husbands,</hi> or a <hi>Kins-mans</hi> Death.</p>
+               <p>But let me add, we ſometimes are too <hi>curios,</hi> with the <hi>Diſciples,</hi> in the <hi>blind</hi> mans caſe; <hi>Who ſinned, this Man or his Parents, that he was born blind?</hi>
+                  <note place="margin">St. <hi>John.</hi> 9.2, 3.</note> To whom Chriſt Anſwered; <hi>Neither hath this Man ſin<g ref="char:EOLhyphen"/>ned, nor his Parents, but that the Works of God might be made manifeſt in him:</hi> Not but they all were ſin<g ref="char:EOLhyphen"/>ners, but it was not for any <hi>Extraordinary ſin</hi> that that <hi>blindneſs</hi> hapned to him, as Saint <hi>Chriſoſtome</hi> Ob<g ref="char:EOLhyphen"/>ſerves.</p>
+               <p>Sometimes too <hi>Cenſorious,</hi> both of our <hi>Selves,</hi> and <hi>Others,</hi> to aggravate our ſorrows, and add <hi>Affliction</hi> to the <hi>Afflicted,</hi> inſtead of the alleviating of them; which evil Spirit, Chriſt twice rebukes, in one Chap<g ref="char:EOLhyphen"/>ter.<note place="margin">St. <hi>Luk</hi> 13.2.4.</note> 
+                  <hi>Suppoſe you theſe</hi> Gallileans <hi>were ſinners above all the</hi> Gallileans, <hi>or thoſe Eighteen upon whom the Tower of</hi> Siloam <hi>fell; — I tell you now nay;</hi> — And with the like words would I <hi>comfort</hi> you: No wiſe, or ſober Chriſtians, will make diſhonourable reflecti<g ref="char:EOLhyphen"/>ons upon ſuch a <hi>Providence,</hi> but <hi>Sympathize,</hi> and tenderly <hi>Compaſſionate</hi> you; Be not you too <hi>ſevere</hi> upon your ſelves.</p>
+               <p>but I have <hi>better comforts</hi> yet, and 'twas from <hi>Chriſts</hi> Example, that I Learned, to keep the <hi>best Wine</hi> unto the <hi>laſt;</hi> the <hi>former</hi> were <hi>Collyria</hi> to <hi>cool</hi> your <hi>Eyes, theſe</hi> are <hi>Cordiacall's</hi> to <hi>warm</hi> your <hi>hearts.</hi>
+                  <note place="margin">1 <hi>Tueſ.</hi> 4.13.</note> 
+                  <hi>I would not have you Ignorant concerning them
+<pb n="54" facs="tcp:41198:33"/> that ſleep, that you ſorrow not as men without hope.</hi>
+               </p>
+               <p>I ſhall ſpeak firſt in <hi>Hypotheſi,</hi> upon the Charitable <hi>ſuppoſition</hi> that he dyed in Chriſt; and then give you the <hi>Grounds</hi> upon which that <hi>ſuppoſition</hi> is bottom'd.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Rev.</hi> 14.13.</note>
+                  <hi>Weep not;</hi> for him that's gone to reſt; <hi>Bleſſed are the dead that dye in the Lord, for they reſt from their la<g ref="char:EOLhyphen"/>bour;</hi> Beatum deflere Invidia eſt. He's nearer our envy then our pitty. <hi>Gaudendum potius, quam do<g ref="char:EOLhyphen"/>lendum;</hi>
+                  <note place="margin">Nec accipiendas eſſe nobis atras veſtes quando illi alba indumenta jam ſumpſerunt, Cipria. de Mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</note> as Saint <hi>Cyprian.</hi> Our <hi>blacks</hi> ſhould not be of too <hi>deep a Dye,</hi> when they are <hi>Cloathed</hi> in their <hi>long white robes,</hi> and are <hi>incircled</hi> with <hi>Golden girdles</hi> under their <hi>Papps.</hi> It's very <hi>incongruous,</hi> to blur our faces with exceſs of tears, for them, from whoſe <hi>Eyes all tears are wip't, and from whom ſighing, and ſorrow ſhall fly away;</hi> which is the happineſs of all in Heaven; if we <hi>believe</hi> this, how can we <hi>mourn?</hi> if we <hi>believe</hi> it not, how are we <hi>Chriſtians?</hi> but, <hi>Fidei &amp; ſpei no<g ref="char:EOLhyphen"/>ſtrae prevaricatores,</hi> as St. <hi>Ciprian;</hi> but the cheats and abuſes of our hope and confidence; If we will <hi>weep,</hi> 'tis <hi>fitter,</hi> that we do it for <hi>our ſelves,</hi> then <hi>them;</hi> not that they are <hi>gone before,</hi> but that we ſtay <hi>still behind; They</hi> have <hi>obtained,</hi> what <hi>we</hi> have but in <hi>hope;</hi> though <hi>we</hi> be <hi>Elder,</hi> yet are we <hi>Minors,</hi> they of <hi>Age,</hi> though <hi>Younger;</hi> and have attain'd to the <hi>Inheritance, Incorruptible</hi> and <hi>undefil'd,</hi>
+                  <note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Greg. Nyſs. de Mortu.</note> 
+                  <hi>and which fadeth not away;</hi> which we muſt yet <hi>breath</hi> after, <hi>wait</hi> and <hi>pray</hi> for; That <hi>ſtate knows neither Widow-hood, nor Orphanage, where God is all in all;</hi> they who are <hi>ever</hi> with the Lord, ſhall <hi>never</hi> feel woe or want, but are poſſeſ<g ref="char:EOLhyphen"/>ſed
+<pb n="55" facs="tcp:41198:33"/> of that <hi>Fulneſs of joy, which is in his preſence, and drink of thoſe Rivers of pleaſure,</hi>
+                  <note place="margin">Pſal. <hi>16.</hi> ult.</note> 
+                  <hi>which are at his right hand for evermore.</hi>
+               </p>
+               <p>And that <hi>he</hi> is one of <hi>thoſe:</hi> what follows is a <hi>ground</hi> of hope:<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Gr. Na<g ref="char:EOLhyphen"/>zian</hi> Orat. deci. iá laudem Caeſa. frat.</note> You know the <hi>Family</hi> from whence he <hi>ſprang;</hi> what <hi>Education</hi> and <hi>Example</hi> he was <hi>Nurſt</hi> up under? what <hi>Womb</hi> he <hi>lay</hi> in; (though grace be not <hi>extraduce</hi>) 'twas well for <hi>Auguſtine</hi> that holy <hi>Mo<g ref="char:EOLhyphen"/>nica</hi> was his <hi>Mother;</hi> Her <hi>Zeal,</hi> (next to free grace) firſt <hi>Canoniz'd</hi> him, and her <hi>Blood</hi> was the <hi>blest earneſt</hi> of his following <hi>Saint-ſhip;</hi> well did St. <hi>Ambroſe aſſure</hi> her, that a <hi>Child</hi> of ſo many <hi>Prayers</hi> (and <hi>ſuch Prayers</hi> as <hi>hers</hi>) could not <hi>miſcarry;</hi> and we ſpeak <hi>modeſtly</hi> enough, while we <hi>depreſs</hi> our preſent <hi>caſe,</hi> to be but <hi>Paralel.</hi>
+               </p>
+               <p>I might here <hi>touch</hi> his <hi>Natural</hi> accompliſhments, and <hi>Moral</hi> Excellencies: In that <hi>Fair</hi> manſion, of his <hi>Goodly Body, Dwelt</hi> happily a <hi>Fairer,</hi> and move <hi>Love<g ref="char:EOLhyphen"/>ly Mind; Humble, Modeſt, Pregnant, Civil, Truly No<g ref="char:EOLhyphen"/>ble; Large,</hi> not with <hi>ſwelling</hi> pride, but <hi>Solid Worth; Free</hi> yet not <hi>frolick, Reſerv'd,</hi> but not <hi>Moroſe; Cour<g ref="char:EOLhyphen"/>teous,</hi> where not <hi>Familiar, Kind,</hi> though <hi>Great;</hi> which could keep <hi>diſtance,</hi> yet without <hi>diſdain;</hi> A Con<g ref="char:EOLhyphen"/>verſation <hi>clear</hi> from <hi>ſoul deboyſhe's;</hi> which <hi>'ſlave,</hi> and <hi>debaſe,</hi> not few of <hi>Highest Birth;</hi> No <hi>
+                     <g ref="char:V">Ʋ</g>nclean Riots,</hi> or <hi>Blaſpheming Oaths <g ref="char:V">Ʋ</g>nman'd</hi> him, as too many, in<g ref="char:EOLhyphen"/>to to <hi>beaſt,</hi> or <hi>feind:</hi> And becauſe <hi>Relative</hi> duties well diſcharg'd, beſt ſpeak us <hi>Reall</hi> Chriſtians; He was Eminent in theſe.</p>
+               <pb n="56" facs="tcp:41198:34"/>
+               <p>A moſt <hi>Obedient,</hi> and <hi>Obſequious Son;</hi> A <hi>Chaſt, Affectionate,</hi> and <hi>Tender, Husband;</hi> A <hi>Civil, Faith<g ref="char:EOLhyphen"/>full,</hi> and <hi>Obliging Friend.</hi>
+               </p>
+               <p>But that our <hi>hopes</hi> may be the more <hi>Explicite,</hi> the good <hi>diſcoveries</hi> he <hi>gave</hi> of better then all this, were neither <hi>late,</hi> nor <hi>faint,</hi> nor <hi>forced</hi> from him. <hi>Accept</hi> of theſe <hi>few Inſtances;</hi> He <hi>freely</hi> gave up himſelf to <hi>God,</hi> and was not <hi>ſolicitous</hi> for any thing in the <hi>E<g ref="char:EOLhyphen"/>vent,</hi> but <hi>Life Eternall;</hi> profeſſing himſelf moſt wil<g ref="char:EOLhyphen"/>ling to dye, and would <hi>Indent</hi> with <hi>God</hi> for <hi>Nothing,</hi> but the <hi>pardon</hi> of his <hi>ſins,</hi> which he was <hi>ſenſible</hi> he wanted, and <hi>begg'd</hi> moſt <hi>heartily,</hi> and <hi>joyn'd</hi> with them, who ſought it for him, <hi>Earnestly,</hi> and <hi>Preſt</hi> them to do it <hi>frequently.</hi>
+               </p>
+               <p>
+                  <hi>He</hi> made firm <hi>Reſolutions</hi> (of his own accord) that if it pleaſed the Lord to <hi>ſpare</hi> him, he would ſpend <hi>four hours</hi> every day, in <hi>Reading, Prayer,</hi> and <hi>Meditation,</hi> and ſuch like <hi>Holy Exerciſes,</hi> as might concern his <hi>Soul's Salvation.</hi> And when with a <hi>Holy Jealouſie</hi> his Pious <hi>Mother</hi> Anſwered: But I <hi>fear</hi> Child, when thou ar't <hi>well,</hi> thou'lt think it <hi>tedious,</hi> and <hi>forget</hi> this <hi>promiſe,</hi> and <hi>alter</hi> the <hi>num<g ref="char:EOLhyphen"/>ber;</hi> He with ſome <hi>paſſion</hi> (but 'twas <hi>devout</hi> and <hi>holy paſſion) reply'd;</hi> by the <hi>Grace</hi> of <hi>God Madam,</hi> if I ever <hi>change</hi> the <hi>number,</hi> it ſhall be to make them <hi>more.</hi> And we humbly hope God took him at his word, and hath <hi>Inlarg'd</hi> his <hi>Vacancy,</hi> and <hi>chang'd</hi> his <hi>Four,</hi> into <hi>Twenty Four;</hi> fetching him thither, where they ſerve him <hi>continually,</hi> the <hi>whole</hi> of every day, and
+<pb n="57" facs="tcp:41198:34"/> never <hi>ceaſe,</hi> or <hi>ſin.</hi> And as he ſeriouſly <hi>profest,</hi> he ſhould for ever <hi>take</hi> more <hi>Contentment</hi> and delight in his <hi>Good Mothers</hi> Company, and <hi>ſuch</hi> as are <hi>like</hi> to <hi>Her;</hi> in whoſe <hi>Converſe,</hi> he ſhould be alwayes <hi>Hear<g ref="char:EOLhyphen"/>ing</hi> and <hi>Seeing</hi> what might <hi>promote</hi> his <hi>Everlaſting Good;</hi> Now <hi>God,</hi> we hope, hath taken him to <hi>Better Company,</hi> the <hi>Family</hi> of the <hi>Firſt-Born</hi> in Heaven.</p>
+               <p>And as a <hi>loud Teſtimony,</hi> how little Worldly things were to Him, He <hi>Sacrificed</hi> his Youthfull Friends (which uſually are the deareſt pieces we poſſeſſe) which he <hi>Expreſt</hi> with ſuch an <hi>Emphaſis,</hi> and <hi>Force,</hi> as is too <hi>hard</hi> to <hi>imitate.</hi> I <hi>now</hi> well <hi>ſee,</hi> what <hi>little</hi> good, <hi>my Feathered-Friends</hi> can do me, and what they ſig<g ref="char:EOLhyphen"/>nifie.</p>
+               <p>It was the <hi>Law</hi> for Sacrificing <hi>Fouls,</hi> that the <hi>Feathers</hi> ſhould be caſt <hi>beſide the Altars,</hi>
+                  <note place="margin">
+                     <hi>Levit.</hi> 1.16.</note> 
+                  <hi>by the place of</hi> the <hi>Aſhes;</hi> and full ſo low he laid the <hi>Vanity,</hi> and <hi>Gayneſs,</hi> of himſelf and others. Saint <hi>Anſelme,</hi> us'd to compare the <hi>Soul,</hi> into the <hi>Body;</hi> to a <hi>Bird</hi> with a <hi>ſtring</hi> about its <hi>legg,</hi> and a weight tyed to it; His <hi>String</hi>'s <hi>uniyed,</hi> His <hi>Snare</hi> is <hi>broken,</hi> and as a <hi>Bird</hi> he is <hi>eſcaped,</hi> yea like a <hi>Dove, whoſe wings are of Silver, and her Feathers of Yellow Gold;</hi> He's haſtned to the <hi>winged Cherubims,</hi> to ſing for ever in the Lords pre<g ref="char:EOLhyphen"/>ſence, and to be ſheltred under the moſt immediate <hi>Protection</hi> of his <hi>Feathers.</hi>
+               </p>
+               <p>
+                  <hi>'Tis true,</hi> his <hi>hopes</hi> were very <hi>modeſt,</hi> ſomewhat <hi>verging</hi> upon <hi>fears</hi> and <hi>doubts;</hi> which his <hi>Sollicitous</hi> inquiries diſcovered. Whether his delaying, (for he
+<pb facs="tcp:41198:35"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:41198:35"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="58" facs="tcp:41198:36"/> bewail'd, his not <hi>conforming ſooner,</hi> and more through<g ref="char:EOLhyphen"/>ly, to his <hi>Good Mothers</hi> pious <hi>Admonitions) could</hi> be forgiven: and whether <hi>God</hi> would <hi>accept</hi> his <hi>late Repentance,</hi> and the <hi>Reſolv's</hi> made on a <hi>Bed</hi> of <hi>Sick<g ref="char:EOLhyphen"/>neſs?</hi> And when <hi>theſe,</hi> and the <hi>like,</hi> were Anſwered, with <hi>Prudent,</hi> and <hi>Faithfull Caution;</hi> and then with ſuch <hi>Incouragements,</hi> as the <hi>manner</hi> and <hi>heartineſs</hi> of his <hi>Expreſſion</hi> ſeem'd to <hi>Intitle</hi> him to. He Anſwer<g ref="char:EOLhyphen"/>ed, <hi>Well!</hi> Then I will <hi>Cast</hi> my Self on God. And he is a <hi>God,</hi> who <hi>casts</hi> not them away, that do ſo in good <hi>Earnest;</hi> Therefore with <hi>Him,</hi> we'l leave him, and <hi>Conclude;</hi>
+               </p>
+               <p>
+                  <hi>Beſeeching</hi> you to <hi>bear</hi> from him, what poſſibly you would not <hi>bear</hi> from <hi>me;</hi> the <hi>free</hi> diſcovery of your <hi>Vanities,</hi> and let this pull down your <hi>Plums,</hi> and make you <hi>ſerious.</hi>
+               </p>
+               <p>And <hi>You</hi> that <hi>ſurvive</hi> Him, do <hi>Him</hi> the <hi>Kindneſs,</hi> and <hi>Your Selves</hi> the <hi>Right;</hi> to <hi>Act</hi> what He <hi>Reſol<g ref="char:EOLhyphen"/>ved. Spend</hi> every day ſome good <hi>Proportion</hi> of your <hi>time,</hi> as all <hi>Good</hi> Men, and <hi>Wiſe,</hi> ſhall <hi>ſpend Eter<g ref="char:EOLhyphen"/>nity. Delay</hi> not your <hi>Return</hi> to God. <hi>Submit</hi> to wholeſome Councils <hi>Early; Delight</hi> in Company, may make you <hi>Better. Sue-out</hi> moſt Earneſtly, the <hi>Pardon</hi> of your ſins; <hi>Solicite</hi> thoſe, who are the <hi>Fa<g ref="char:EOLhyphen"/>vorites</hi> of Heaven, to aſſiſt you in it. <hi>Adorn</hi> as he, all your <hi>Relations: Study</hi> his <hi>Herſe,</hi> and <hi>liſten</hi> what he <hi>whiſpers</hi> thence; and when you ſe't, Remember, that be'ſt thou <hi>Young,</hi> or <hi>Great,</hi> or <hi>Darling</hi> of thy Deareſt Parents, <hi>Stem</hi> of thy <hi>Family,</hi> or whatever
+<pb n="59" facs="tcp:41198:36"/> elſe, that's <hi>Man,</hi> thou <hi>certainly</hi> muſt <hi>dye;</hi> therefore <hi>prepare:</hi> for, <hi>Ex Hoc momento Aeternitas.</hi>
+               </p>
+               <q>
+                  <l>Upon this moment do Depend,</l>
+                  <l>The Joyes, or Woes, that never End.</l>
+               </q>
+            </div>
+         </div>
+         <div type="prayer">
+            <p>LORD Teach us to number our dayes, that we may apply our hearts to ſaving Wiſdome; And for<g ref="char:EOLhyphen"/>give us our many ſins, at, and againſt the frequent Fu<g ref="char:EOLhyphen"/>neralls we attend, that ſo many warnings may not be loſt, and leave us unprepared, leaſt they aggravate our guilt beyond excuſe. Write upon our hearts the word we have heard; and Sanctifie this awakening Example to us all; And most Eminently, to thoſe Right Honourable Perſo<g ref="char:EOLhyphen"/>nages, moſt nearly Concerned in it; whoſe Wound, and Breach, we Beſeech thee, (who ar't Able to do above all that we can Aske, or Think) of Thy Infinite Goodneſs to repair and bind up, with Thy All-Healing hands, in Thine own Time, and Way. And all for his ſake, who dyed far our ſins, and roſe again for our Juſtifica<g ref="char:EOLhyphen"/>tion, and ſits at thy right hand making Interceſſion, whereby he is Able to ſave to the uttermoſt, all thoſe who come to Thee by Him. To Him, with Thy Majeſty and Bleſſed Spirit, be Adoration, Submiſſion of our Selves, and Ours, to be at Thy Diſpoſe, Praiſe, and Everlaſting Glory; <hi>AMEN.</hi>
+            </p>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:41198:37"/>
+            <head>EPITAPHIUM.</head>
+            <l>WIthin this <hi>Marble</hi> doth <hi>Intombed</hi> Lye,</l>
+            <l>Not <hi>One,</hi> but <hi>All</hi> a <hi>Noble Familie:</hi>
+            </l>
+            <l>A <hi>Pearle</hi> of ſuch a <hi>Price,</hi> that ſoon about</l>
+            <l>
+               <hi>Poſſeſsion</hi> of it, <hi>Heaven,</hi> and <hi>Earth</hi> fell out;</l>
+            <l>
+               <hi>Both</hi> could not have <hi>Him,</hi> So they did <hi>Deviſe</hi>
+            </l>
+            <l>This <hi>Fatall Salvo,</hi> to <hi>divide</hi> the <hi>Prize:</hi>
+            </l>
+            <l>
+               <hi>Heaven</hi> Share's the <hi>Soul,</hi> and <hi>Earth</hi> his <hi>Body take's,</hi>
+            </l>
+            <l>Thus <hi>We loſe all,</hi> whilſt <hi>Heaven,</hi> and <hi>Earth</hi> part ſtakes:</l>
+            <l>But <hi>Heaven,</hi> not <hi>Brooking</hi> that the <hi>Earth</hi> ſhould <hi>ſhare</hi>
+            </l>
+            <l>In the leaſt <hi>Attome,</hi> of a <hi>Piece</hi> ſo <hi>Rare,</hi>
+            </l>
+            <l>Intends to <hi>Sue Out,</hi> by a new <hi>Revize</hi>
+            </l>
+            <l>His <hi>Habeas Corpus,</hi> at the <hi>Grand Aſsize.</hi>
+            </l>
+            <closer>
+               <signed>JOHN FLOWRE.</signed>
+            </closer>
+            <pb facs="tcp:41198:37"/>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:41198:38"/>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Frontiſpicii Speculum.</hi> The Mind of the Frontiſpiece:</head>
+                  <lg>
+                     <l>
+                        <hi>WOuld'st thou</hi> Amazed <hi>Friend, a</hi> Reaſon <hi>have;</hi>
+                     </l>
+                     <l>
+                        <hi>Why</hi> Squalid <hi>Death, is</hi> Trim'd, <hi>ſo</hi> Gay <hi>and</hi> Brave?</l>
+                     <l>
+                        <hi>This is her</hi> Nuptial <hi>Day; That is the</hi> Bed,</l>
+                     <l>
+                        <hi>To which,</hi> Great Warwick<hi>'s</hi> Heir <hi>is</hi> Captive <hi>Led;</hi>
+                     </l>
+                     <l>
+                        <hi>But 'twas</hi> Rude Woeing, <hi>and a</hi> Stolen <hi>Match,</hi>
+                     </l>
+                     <l>
+                        <hi>An</hi> Uncouth Rape, <hi>in which the</hi> She <hi>did</hi> catch</l>
+                     <l>
+                        <hi>The</hi> Male; <hi>who though</hi> perſu'd, <hi>by</hi> wanton <hi>Death,</hi>
+                     </l>
+                     <l>
+                        <hi>Was</hi> Chaſt, <hi>and</hi> Yielded <hi>not, till out of</hi> Breath.</l>
+                     <l>
+                        <hi>On't</hi> this retrive <hi>the</hi> Banes? <hi>No! 'twill not</hi> do,</l>
+                     <l>
+                        <hi>She</hi> Got <hi>a</hi> Licence; <hi>And, they're</hi> Bedded <hi>too<g ref="char:punc">▪</g>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>But to diſguiſe th'</hi> unfitneſs, <hi>and prevent</hi>
+                     </l>
+                     <l>Juſt ſcorne; <hi>to</hi> paint, <hi>alone, ſhe's not</hi> content</l>
+                     <l>
+                        <hi>But</hi> ſteal's His Colours <hi>for't; and</hi> all <hi>ſhe can</hi>
+                     </l>
+                     <l>
+                        <hi>To make</hi> Him <hi>like</hi> Her-ſelf; <hi>halfe</hi>-Na'kt, <hi>and</hi> Wan.</l>
+                     <l>
+                        <hi>And yet, 'cauſe</hi> Guilty, <hi>fearing an</hi> Aſſault,</l>
+                     <l>
+                        <hi>With</hi> His <hi>Own</hi> Shields, <hi>She</hi> Guarded <hi>hath the</hi> Vault,</l>
+                     <l>
+                        <hi>But She's paſt</hi> bluſhing, <hi>and will not</hi> Confeſſe</l>
+                     <l>
+                        <hi>Her</hi> Wrong; <hi>His</hi> Right, <hi>to</hi> Cornet, Coat, <hi>or</hi> Croſs,</l>
+                     <l>
+                        <hi>Cry's</hi> All's <hi>mine</hi> Own; <hi>and if You</hi> proof require,</l>
+                     <l>
+                        <hi>For the</hi> Left Creſt; <hi>The Serpent was my Sire:</hi>
+                     </l>
+                     <l>
+                        <hi>And for the</hi> Dexter <hi>one, That</hi> venom'd wing</l>
+                     <l>Feathers <hi>my</hi> Arrows; <hi>And his</hi> Tayle's, <hi>my</hi> Sting:</l>
+                     <l>
+                        <hi>The</hi> Coronet <hi>without</hi> diſpute's <hi>mine Own,</hi>
+                     </l>
+                     <l>
+                        <hi>For</hi> She <hi>that</hi> Conquers, <hi>may</hi> Command <hi>the</hi> Crown:</l>
+                     <l>
+                        <hi>The</hi> Coat's <hi>may Proper</hi> bearing: <hi>from</hi> ſuch Loſſes,</l>
+                     <l>
+                        <hi>Your Selves</hi> Blaze <hi>me to be, The</hi> Croſs <hi>of</hi> Croſſes.</l>
+                     <l>
+                        <hi>And for the</hi> Motto, <hi>You</hi> dare <hi>not</hi> Deny,</l>
+                     <l>
+                        <hi>That none</hi> Keeps Faith, <hi>more</hi> Firm, <hi>then</hi> Deſtiny.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Yet thoſe who</hi> Keep <hi>the</hi> Faith <hi>of</hi> Chriſt <hi>toth'</hi> Laſt;</l>
+                     <l>
+                        <hi>Will Be too</hi> Quick <hi>for</hi> Thee, for all thy haſt.</l>
+                     <l>
+                        <hi>And when the</hi> Glorious Morn, <hi>Reſtores them</hi> Light;</l>
+                     <l>Bid <hi>Thee with</hi> Scorn, <hi>Eternally</hi> Good-Night.</l>
+                     <l>
+                        <hi>Aliter</hi>
+                     </l>
+                     <l>
+                        <hi>Our Text in Mottoes, is diſplay'd:</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Motto in a Text obey'd.</hi>
+                     </l>
+                  </lg>
+                  <byline>A. Walker.</byline>
+                  <pb facs="tcp:41198:38"/>
+                  <p>GARDE LA FOY.</p>
+                  <figDesc>engraving of an effigy on a tomb, with coats of arms</figDesc>
+                  <q>JÁY GARDÉ LA FOY. <bibl>2. <hi>Tym:</hi> 4:7.</bibl>
+                  </q>
+                  <p>
+                     <hi>Ex Hoc momento Aeternitas.</hi> 1664</p>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
